@@ -1,7 +1,16 @@
 @import "bootstrap";
+html, body {
+  height: 100%;
+}
+.pageWrapper{
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -44px;
 header{
   padding: 20px 0px;
   background:#1b1b1b;
+  margin-bottom: 20px;
   .logoWrap{
     a.logo{
       display: block;
@@ -17,13 +26,70 @@ header{
       list-style: none;
       li{
         float: left;
+        color:#ffffff;
+        margin-left: 10px;
         a{
           font-size: 14px;
           color: #fff;
           line-height: 18px;
-          text-decoration: none;
+
         }
       }
     }
+  }
+}
+.userAction{
+  p{
+    a{
+      display: block;
+      text-decoration: none;
+      text-align: center;
+    }
+    margin-bottom: 20px;
+  }
+}
+h1{
+  margin-bottom: 30px;
+  text-align: center;
+}
+.alert{
+  h2{
+    font-size: 14px;
+    line-height: 18px;
+  }
+}
+.gender,.remember{
+  label{
+    display: inline;
+    padding-right: 20px;
+  }
+  input[type="radio"],input[type="checkbox"]{
+    margin-top: 0px;
+  }
+}
+#push{
+  height: 44px;
+}
+.helpLinks{
+  margin-top: 15px;
+}
+.flash_notice {
+  color: #468847;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+  .flash_error {
+    color: #b94a48;
+    background-color: #f2dede;
+    border-color: #eed3d7;
+  }
+  }
+
+footer{
+  height: 24px;
+  padding: 10px 0px;
+  background-color: #1b1b1b;
+  p{
+    color:#fff;
   }
 }

@@ -7,27 +7,16 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+<div class="pageWrapper">
 <%=render'layouts/header' %>
 <div class="container">
-  <%- flash.each do |name, msg| -%>
-      <%= content_tag :div, msg, id: "flash_#{name}" if msg.is_a?(String) %>
-  <%- end -%>
-
-  <p><%= link_to 'Home', root_path %></p>
-
-  <% if user_signed_in? -%>
-      <div id="user_login_box" style="float:right">
-        <%= current_user.email %> |
-        <%= link_to 'My info', edit_user_registration_path %> |
-        <%= link_to 'Sign out', destroy_user_session_path, method: :delete %>
-      </div>
-  <% end -%>
-
-  <div style="clear:both"></div>
-
-
-  <%= yield %>
+  <%=render'layouts/errors' %>
+   <%= yield %>
 </div>
+<div id="push">
 
+</div>
+</div>
+<%= render "layouts/footer"%>
 </body>
 </html>
