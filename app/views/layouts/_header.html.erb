@@ -1,0 +1,22 @@
+<header>
+  <div class="container clearfix">
+    <div class="row">
+        <div class="span5">
+            <div class="logoWrap">
+              <a href="" class="logo">HangMan Game</a>
+            </div>
+        </div>
+        <div class="span4 pull-right">
+          <% if user_signed_in? -%>
+              <div class="headerLinks">
+                <ul class="clearfix">
+                    <li><%= current_user.email %></li>
+                    <li><%= link_to 'My info', edit_user_registration_path %></li>
+                    <li><%= link_to 'Sign out', destroy_user_session_path, method: :delete %></li>
+                </ul>
+              </div>
+          <% end -%>
+        </div>
+    </div>
+  </div>
+</header>

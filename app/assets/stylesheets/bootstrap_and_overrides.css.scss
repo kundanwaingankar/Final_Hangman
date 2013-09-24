@@ -1,1 +1,29 @@
 @import "bootstrap";
+header{
+  padding: 20px 0px;
+  background:#1b1b1b;
+  .logoWrap{
+    a.logo{
+      display: block;
+      text-decoration: none;
+      color:#fff !important;
+      font-size: 20px;
+      font-family: arial;
+    }
+  }
+  .headerLinks{
+    ul{
+      float: right;
+      list-style: none;
+      li{
+        float: left;
+        a{
+          font-size: 14px;
+          color: #fff;
+          line-height: 18px;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
