@@ -11,13 +11,22 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130924061327) do
+ActiveRecord::Schema.define(version: 20130924125916) do
 
   create_table "authentications", force: true do |t|
     t.integer  "user_id"
     t.string   "provider"
     t.string   "uid"
     t.string   "token"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "games", force: true do |t|
+    t.integer  "user_id"
+    t.integer  "played"
+    t.integer  "win"
+    t.integer  "lose"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

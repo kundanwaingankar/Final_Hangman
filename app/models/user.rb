@@ -7,6 +7,8 @@ class User < ActiveRecord::Base
          :token_authenticatable, :confirmable, :lockable
   has_one :profile , dependent: :destroy
   accepts_nested_attributes_for :profile
+  has_one :game , dependent: :destroy
+  accepts_nested_attributes_for :game
   has_many :authentications, :dependent => :delete_all
 
 
