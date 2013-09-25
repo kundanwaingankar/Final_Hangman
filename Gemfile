@@ -13,6 +13,10 @@ gem 'oauth2'
 gem "omniauth-google-oauth2"
 gem 'certified'
 #gem 'devise'
+group :test do
+  gem 'rspec-rails','2.13.1'
+  gem 'shoulda-matchers'
+end
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
