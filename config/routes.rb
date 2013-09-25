@@ -6,6 +6,11 @@ Devise4::Application.routes.draw do
   #root :to => "home#index"
   root 'home#index'
 
+  authenticated :user do
+    match '/help',    :to => 'home#help', via: 'get'
+  end
+
+
   match '/auth/:provider/callback' => 'authentications#create' , via: 'get'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
