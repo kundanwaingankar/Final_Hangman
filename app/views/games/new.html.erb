@@ -4,48 +4,60 @@
 
     <p class="center"><img src="/images/games/hangman01.png" alt="" height="194" width="240" /></p>
 
-    <p class="hangman-word">-----------</p>
-
+    <p class="hangman-word"><%@game.word_placeholder.each do |u|%>
+                                    <%=u%>
+                            <%end%>
+    </p>
+    <p >Counter :- <%= @game.counter%></p>
+    <p >Missed Counter :- <%= @game.missed_counter%></p>
+    <p >previous_choice:- <%@game.previous_choice.each do |u|%>
+                                <%=u%>
+                          <%end%>
+    </p>
     <p class="center explanation">Guess the word</p>
+    <%if @game.missed_counter < 6 && @game.counter != @game.word.length -%>
+        <form action="/game/user_input" method="post">
+          <div class="center">
+            <input type="submit" name="character" class="button character" value="A" />
+            <input type="submit" name="character" class="button character" value="B" />
+            <input type="submit" name="character" class="button character" value="C" />
+            <input type="submit" name="character" class="button character" value="D" />
+            <input type="submit" name="character" class="button character" value="E" />
+            <input type="submit" name="character" class="button character" value="F" />
+            <input type="submit" name="character" class="button character" value="G" />
+            <input type="submit" name="character" class="button character" value="H" />
+            <input type="submit" name="character" class="button character" value="I" />
+            <br /><input type="submit" name="character" class="button character" value="J" />
+            <input type="submit" name="character" class="button character" value="K" />
+            <input type="submit" name="character" class="button character" value="L" />
+            <input type="submit" name="character" class="button character" value="M" />
+            <input type="submit" name="character" class="button character" value="N" />
+            <input type="submit" name="character" class="button character" value="O" />
+            <input type="submit" name="character" class="button character" value="P" />
+            <input type="submit" name="character" class="button character" value="Q" />
+            <input type="submit" name="character" class="button character" value="R" />
+            <br /><input type="submit" name="character" class="button character" value="S" />
+            <input type="submit" name="character" class="button character" value="T" />
+            <input type="submit" name="character" class="button character" value="U" />
+            <input type="submit" name="character" class="button character" value="V" />
+            <input type="submit" name="character" class="button character" value="W" />
+            <input type="submit" name="character" class="button character" value="X" />
+            <input type="submit" name="character" class="button character" value="Y" />
+            <input type="submit" name="character" class="button character" value="Z" />
+            <!--<input type="hidden" name="param" value="17" />-->
+            <!--<input type="hidden" name="history" value="--------------------------" />-->
+            <!--<input type="hidden" name="word_id" value="637" />-->
+            <!--<input type="hidden" name="themes_ser" value="MT1BbmltYWxzfDU9Q2xvdGhlc3wxOD1EYXlzL01vbnRoc3w5PURpcmVjdGlvbnN8MTE9RmFudGFzeXwxMj1GYXJtfDY9Rm9vZHwzPUdlb2dyYXBoeXw0PUhhbGxvd2VlbnwxNz1Kb2JzfDI9TW9uZXl8MTk9T2x5bXBpY3N8Nz1TY2hvb2x8OD1UaW1lfDEwPVdlYXRoZXI=" />-->
+            <!--<input type="hidden" name="comment_ser" value="" />-->
+          </div>
+        </form>
+    <%else%>
+    <P>Result </p>
+        <p><%=@result%></p>
+        <p><%=@result_word%></p>
+    <%end-%>
 
-    <form action="/game/user_input" method="post">
-      <div class="center">
-        <input type="submit" name="character" class="button character" value="A" />
-        <input type="submit" name="character" class="button character" value="B" />
-        <input type="submit" name="character" class="button character" value="C" />
-        <input type="submit" name="character" class="button character" value="D" />
-        <input type="submit" name="character" class="button character" value="E" />
-        <input type="submit" name="character" class="button character" value="F" />
-        <input type="submit" name="character" class="button character" value="G" />
-        <input type="submit" name="character" class="button character" value="H" />
-        <input type="submit" name="character" class="button character" value="I" />
-        <br /><input type="submit" name="character" class="button character" value="J" />
-        <input type="submit" name="character" class="button character" value="K" />
-        <input type="submit" name="character" class="button character" value="L" />
-        <input type="submit" name="character" class="button character" value="M" />
-        <input type="submit" name="character" class="button character" value="N" />
-        <input type="submit" name="character" class="button character" value="O" />
-        <input type="submit" name="character" class="button character" value="P" />
-        <input type="submit" name="character" class="button character" value="Q" />
-        <input type="submit" name="character" class="button character" value="R" />
-        <br /><input type="submit" name="character" class="button character" value="S" />
-        <input type="submit" name="character" class="button character" value="T" />
-        <input type="submit" name="character" class="button character" value="U" />
-        <input type="submit" name="character" class="button character" value="V" />
-        <input type="submit" name="character" class="button character" value="W" />
-        <input type="submit" name="character" class="button character" value="X" />
-        <input type="submit" name="character" class="button character" value="Y" />
-        <input type="submit" name="character" class="button character" value="Z" />
-        <!--<input type="hidden" name="param" value="17" />-->
-        <!--<input type="hidden" name="history" value="--------------------------" />-->
-        <!--<input type="hidden" name="word_id" value="637" />-->
-        <!--<input type="hidden" name="themes_ser" value="MT1BbmltYWxzfDU9Q2xvdGhlc3wxOD1EYXlzL01vbnRoc3w5PURpcmVjdGlvbnN8MTE9RmFudGFzeXwxMj1GYXJtfDY9Rm9vZHwzPUdlb2dyYXBoeXw0PUhhbGxvd2VlbnwxNz1Kb2JzfDI9TW9uZXl8MTk9T2x5bXBpY3N8Nz1TY2hvb2x8OD1UaW1lfDEwPVdlYXRoZXI=" />-->
-        <!--<input type="hidden" name="comment_ser" value="" />-->
-      </div>
-    </form>
-
-    <button class="btn btn-large btn-primary" type="button">New Game</button>
-
+    <%=link_to 'New Game', newgame_path, class:"btn btn-large btn-primary"%>
   </div>
 
 
