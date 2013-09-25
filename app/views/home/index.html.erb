@@ -1,4 +1,4 @@
-<h1>Welcome To Hangman Game</h1>
+<h2 class="text-center" id="homeHeading">Welcome To Hangman Game</h2>
 
 <% unless user_signed_in? -%>
     <div class="clearfix">
@@ -11,5 +11,45 @@
 <% end -%>
 
 <% if user_signed_in? -%>
-    <h1>User DashBoard Come Here</h1>
+
+    <div class="row-fluid">
+      <div class="span6">
+        <button class="btn btn-large btn-block btn-primary" type="button">Play Game</button>
+      </div>
+
+      <div class="span6">
+        <form class="form-horizontal">
+          <div class="control-group">
+            <label class="control-label" for="gameStatus">Game Status</label>
+            <div class="controls">
+              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Game Status" disabled>
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="played">Games Played</label>
+            <div class="controls">
+              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Played" disabled>
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="win">Games Won</label>
+            <div class="controls">
+              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Won" disabled>
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="lose">Games lost</label>
+            <div class="controls">
+              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Lost" disabled>
+            </div>
+          </div>
+        </form>
+      </div>
+
+    </div>
+
+
 <% end -%>
