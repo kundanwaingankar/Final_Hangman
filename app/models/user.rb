@@ -10,13 +10,17 @@ class User < ActiveRecord::Base
   has_one :game , dependent: :destroy
   accepts_nested_attributes_for :game
   has_many :authentications, :dependent => :delete_all
-
+  after_create :set_default_game
 
   def apply_omniauth(auth)
     # In previous omniauth, 'user_info' was used in place of 'raw_info'
     self.email = auth['extra']['raw_info']['email']
     # Again, saving token is optional. If you haven't created the column in authentications table, this will fail
     authentications.build(:provider => auth['provider'], :uid => auth['uid'], :token => auth['credentials']['token'])
+  end
+
+  def set_default_game
+    self.create_game(played:0,win:0,lose:0)
   end
 
 

@@ -5,6 +5,7 @@ class Game < ActiveRecord::Base
 
   private
   def set_default_values
+    puts "inside set default values--------->"
     self.played=0
     self.win=0
     self.lose=0
