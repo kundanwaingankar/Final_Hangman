@@ -7,11 +7,15 @@ gem 'rails', '4.0.0'
 gem 'mysql'
 gem 'bootstrap-sass'
 gem 'devise', :git => 'git://github.com/plataformatec/devise.git', :ref => '49aebde'
-gem 'omniauth'
-gem 'omniauth-facebook'
-gem 'oauth2'
-gem "omniauth-google-oauth2"
 gem 'certified'
+gem 'omniauth'
+gem 'oauth2'
+gem 'omniauth-facebook'
+gem 'omniauth-github'
+gem 'omniauth-twitter'
+gem 'omniauth-linkedin-oauth2'
+gem "omniauth-google-oauth2"
+
 #gem 'devise'
 
 # Use SCSS for stylesheets
