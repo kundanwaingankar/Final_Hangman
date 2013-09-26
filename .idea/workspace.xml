@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="778b5974-5374-48ac-a3e7-74a30b51c97f" name="Default" comment="" />
+=======
+    <list default="true" id="778b5974-5374-48ac-a3e7-74a30b51c97f" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Kundan\InternalProjects\RubyOnRails\AllGitProj\Final_Hangman\tmp\pids\server.pid" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/devise.rb" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" />
+    </list>
+>>>>>>> change_game_view
     <ignored path="Final_Hangman.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380174752527" ignored="false" />
@@ -11,7 +18,11 @@
     <file path="/bootstrap_and_overrides.css.scss" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380026285595" ignored="false" />
     <file path="/_header.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380016080194" ignored="false" />
     <file path="/new.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380192443007" ignored="false" />
+<<<<<<< HEAD
     <file path="/Dummy.txt" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380175949309" ignored="false" />
+=======
+    <file path="/Dummy.txt" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380195454943" ignored="false" />
+>>>>>>> change_game_view
     <file path="/_errors.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380022098031" ignored="false" />
     <file path="/a.dummy" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380024961769" ignored="false" />
     <file path="/edit.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380026010960" ignored="false" />
@@ -50,7 +61,11 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="31" column="36" selection-start="1409" selection-end="1409" vertical-scroll-proportion="-17.0">
+=======
+            <state line="26" column="36" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
               <folding />
             </state>
           </provider>
@@ -59,6 +74,7 @@
       <file leaf-file-name="home.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="13" column="17" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1380195128020" expanded="true" signature="234:270" placeholder="{...}" />
@@ -73,6 +89,22 @@
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+=======
+            <state line="38" column="17" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state line="31" column="34" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+=======
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
               <folding />
             </state>
           </provider>
@@ -81,16 +113,7 @@
       <file leaf-file-name="games_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/games_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="34" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hangman.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/hangman.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="61" selection-start="78" selection-end="93" vertical-scroll-proportion="0.0">
+            <state line="22" column="34" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,7 +122,20 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/games/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.6418918">
+=======
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="devise.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="127" column="33" selection-start="7014" selection-end="7014" vertical-scroll-proportion="-2.037464">
+>>>>>>> change_game_view
               <folding />
             </state>
           </provider>
@@ -108,7 +144,20 @@
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/script.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="6" column="0" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
+=======
+            <state line="7" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="games.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/games.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="40" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
               <folding />
             </state>
           </provider>
@@ -117,7 +166,11 @@
       <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="9" column="39" selection-start="307" selection-end="307" vertical-scroll-proportion="-5.8846154">
+=======
+            <state line="9" column="39" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
               <folding />
             </state>
           </provider>
@@ -126,7 +179,11 @@
       <file leaf-file-name="games.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/games.css.scss">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+=======
+            <state line="7" column="16" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
               <folding />
             </state>
           </provider>
@@ -160,7 +217,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" />
+=======
+>>>>>>> change_game_view
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
@@ -176,6 +236,10 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/games.css.scss" />
         <option value="$PROJECT_DIR$/app/views/games/new.html.erb" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
+>>>>>>> change_game_view
       </list>
     </option>
   </component>
@@ -249,6 +313,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+<<<<<<< HEAD
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,6 +332,8 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+=======
+>>>>>>> change_game_view
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -284,11 +351,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+<<<<<<< HEAD
+              <option name="myItemId" value="app" />
+=======
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initializers" />
+>>>>>>> change_game_view
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,26 +400,20 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Final_Hangman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Final_Hangman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="stylesheets" />
+=======
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+>>>>>>> change_game_view
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,7 +431,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -363,12 +452,26 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="images" />
+=======
+              <option name="myItemId" value="assets" />
+>>>>>>> change_game_view
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -379,14 +482,14 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ROR_Git/DeviceWithRails4" />
     <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -650,6 +753,9 @@
       <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -768,14 +874,14 @@
       <method />
     </configuration>
     <list size="8">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: Final_Hangman" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: Final_Hangman" />
-      <item index="4" class="java.lang.String" itemvalue="Rake.db:create" />
-      <item index="5" class="java.lang.String" itemvalue="Rake.db:migrate" />
-      <item index="6" class="java.lang.String" itemvalue="IRB console.Rails console: Final_Hangman" />
-      <item index="7" class="java.lang.String" itemvalue="Rake.routes" />
+      <item index="0" class="java.lang.String" itemvalue="Rake.db:create" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.db:migrate" />
+      <item index="2" class="java.lang.String" itemvalue="IRB console.Rails console: Final_Hangman" />
+      <item index="3" class="java.lang.String" itemvalue="Rake.routes" />
+      <item index="4" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="5" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="6" class="java.lang.String" itemvalue="Rails.Production: Final_Hangman" />
+      <item index="7" class="java.lang.String" itemvalue="Rails.Development: Final_Hangman" />
     </list>
     <recent_temporary>
       <list size="4">
@@ -854,15 +960,27 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.108254395" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27348778" sideWeight="0.7171854" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30652174" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28281462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2773488" sideWeight="0.85250336" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30652174" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14659686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> change_game_view
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.108254395" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> change_game_view
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -932,6 +1050,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="51" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0">
@@ -939,6 +1058,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> change_game_view
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="18" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
@@ -983,7 +1104,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="31" column="36" selection-start="1409" selection-end="1409" vertical-scroll-proportion="-17.0">
+=======
+        <state line="26" column="36" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
           <folding />
         </state>
       </provider>
@@ -997,25 +1122,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="9" column="39" selection-start="307" selection-end="307" vertical-scroll-proportion="-5.8846154">
+=======
+        <state line="9" column="39" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="6" column="0" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
+=======
+        <state line="7" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/games_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="31" column="34" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+=======
+        <state line="22" column="34" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="17" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="17" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
@@ -1024,19 +1169,41 @@
             <marker date="1380195128020" expanded="true" signature="303:327" placeholder="{...}" />
             <marker date="1380195128020" expanded="true" signature="302:327" placeholder="{...}" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/games.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="40" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+          <folding />
+>>>>>>> change_game_view
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/games.css.scss">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+=======
+        <state line="7" column="16" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+>>>>>>> change_game_view
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/games/new.html.erb">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.6418918">
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="33" selection-start="7014" selection-end="7014" vertical-scroll-proportion="-2.037464">
+>>>>>>> change_game_view
           <folding />
         </state>
       </provider>
