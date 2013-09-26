@@ -30,7 +30,7 @@ class GamesController < ApplicationController
     if session[:game_flag]
       if @game.counter == @game.word.length
         @result = "You Won"
-        @result_word = "Game Word ::- " + @game.word
+        @result_word = @game.word
         session[:result] = @result
         session[:result_word] = @result_word
         current_user.game.win += 1
@@ -40,7 +40,7 @@ class GamesController < ApplicationController
       end
       if @game.missed_counter == 6
         @result = "SORRY, YOU ARE HANGED!!!"
-        @result_word = "Game Word ::- " + @game.word
+        @result_word = @game.word
         session[:result] = @result
         session[:result_word] = @result_word
         current_user.game.lose += 1
@@ -50,7 +50,7 @@ class GamesController < ApplicationController
       end
     else
       @result = session[:result]
-      @result_word = session[:@result_word]
+      @result_word = session[:result_word]
     end
   end
 

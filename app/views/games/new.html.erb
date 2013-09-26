@@ -55,16 +55,12 @@
 
   <div id="gameStatus" class="span4">
     <h3>Game Status</h3>
-    <p >Counter :- <%= @game.counter%></p>
-    <!--<div><img src="" alt="" height="" width="" /></div>-->
-    <p >Missed Counter :- <%= @game.missed_counter%></p>
-    <p >previous_choice :- <%@game.previous_choice.each do |u|%>
-          <%=u%>
-      <%end%>
-    </p>
-    <P>Result </p>
+    <p >Remaining Chances:- <%= 6-@game.missed_counter%></p>
+    <p ><%= @game.word%></p>
     <h2 class=<%if @game.missed_counter == 6-%>"loss"<%end-%>><%=@result%></h2>
-    <p><%=@result_word%></p>
+    <%if @game.missed_counter == 6 || @game.counter == @game.word.length -%>
+    <p class="correctWord">Correct Word : <b><%=@result_word%></b></p>
+    <%end-%>
   </div>
 
 </div>
