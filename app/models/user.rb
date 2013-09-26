@@ -15,6 +15,8 @@ class User < ActiveRecord::Base
   def apply_omniauth(auth)
     # In previous omniauth, 'user_info' was used in place of 'raw_info'
     self.email = auth['extra']['raw_info']['email']
+    #set profile foe user
+    build_profile(:first_name => auth['extra']['raw_info']['first_name'], :last_name => auth['extra']['raw_info']['last_name'], :gender => auth['extra']['raw_info']['gender'])
     # Again, saving token is optional. If you haven't created the column in authentications table, this will fail
     authentications.build(:provider => auth['provider'], :uid => auth['uid'], :token => auth['credentials']['token'])
   end
