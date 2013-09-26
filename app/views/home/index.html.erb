@@ -14,36 +14,31 @@
 
     <div class="row-fluid">
       <div class="span6">
-        <button class="btn btn-large btn-block btn-primary" type="button">Play Game</button>
+
+        <%=link_to 'Play Game', newgame_path, class:"btn btn-large btn-primary"%>
       </div>
 
       <div class="span6">
         <form class="form-horizontal">
-          <div class="control-group">
-            <label class="control-label" for="gameStatus">Game Status</label>
-            <div class="controls">
-              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Game Status" disabled>
-            </div>
-          </div>
 
           <div class="control-group">
             <label class="control-label" for="played">Games Played</label>
             <div class="controls">
-              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Played" disabled>
+              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Played" value=<%= @game.played%> disabled>
             </div>
           </div>
 
           <div class="control-group">
             <label class="control-label" for="win">Games Won</label>
             <div class="controls">
-              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Won" disabled>
+              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Won" value=<%= @game.win%> disabled>
             </div>
           </div>
 
           <div class="control-group">
             <label class="control-label" for="lose">Games lost</label>
             <div class="controls">
-              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Lost" disabled>
+              <input class="input-xlarge" id="disabledInput" type="text" placeholder="Games Lost" value=<%= @game.lose%> disabled>
             </div>
           </div>
         </form>
