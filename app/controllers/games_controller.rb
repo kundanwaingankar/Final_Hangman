@@ -3,17 +3,28 @@ class GamesController < ApplicationController
   skip_before_filter :verify_authenticity_token
 
   def new_game
-    @game = HANGMAN::Hangman.new('Support'.downcase)
+
+    flag = true
+    game_word = ""
+    # Word Length should be greater 3
+    begin
+      lineNo = rand(109583)
+      file_path = Rails.root + "public/wordsEn.txt"
+      fileData = IO.readlines(file_path)
+      game_word = fileData[lineNo].chomp
+      if(game_word.length >= 3)
+        # return from loop if word length is 3 or more
+        flag = false
+      end
+    end while flag
+    @game = HANGMAN::Hangman.new(game_word.downcase)
     session[:game] = @game
-    #puts @game.word
     current_user.game.played += 1
     session[:game_flag] = true
     redirect_to game_path
-
   end
 
   def new
-    #@game = HANGMAN::Hangman.new('Support'.downcase)
     @game = session[:game]
     if session[:game_flag]
       if @game.counter == @game.word.length
@@ -24,7 +35,6 @@ class GamesController < ApplicationController
         game.save
         session[:game_flag] = false
       end
-
       if @game.missed_counter == 6
         @result = "You lost"
         @result_word = "Game Word ::- " + @game.word
@@ -34,7 +44,6 @@ class GamesController < ApplicationController
         session[:game_flag] = false
       end
     end
-    #puts @game.word
   end
 
   def user_input
