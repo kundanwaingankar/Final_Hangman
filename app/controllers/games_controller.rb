@@ -7,6 +7,7 @@ class GamesController < ApplicationController
     session[:game] = @game
     #puts @game.word
     current_user.game.played += 1
+    current_user.game.save
     session[:game_flag] = true
     redirect_to game_path
 

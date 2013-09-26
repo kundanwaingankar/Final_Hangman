@@ -18,7 +18,7 @@
     <%if @game.missed_counter < 6 && @game.counter != @game.word.length -%>
         <form action="/game/user_input" method="post">
           <div class="center">
-            <input type="submit" name="character" class="button character" value="A" />
+            <input type="submit" name="character" class="button character" value="A" disabled="disabled" />
             <input type="submit" name="character" class="button character" value="B" />
             <input type="submit" name="character" class="button character" value="C" />
             <input type="submit" name="character" class="button character" value="D" />
