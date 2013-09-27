@@ -1,20 +1,21 @@
-<div class="text-center">
+<div class="row-fluid" id="game">
 
-  <div id="hangman">
+  <div class="span8 text-center">
 
-    <p class="center"><img src="/images/games/hangman01.png" alt="" height="194" width="240" /></p>
-
-    <p class="hangman-word"><%@game.word_placeholder.each do |u|%>
-                                    <%=u%>
-                            <%end%>
+    <p class="center">
+      <!--<img src="/images/games/hangman01.png" alt="" height="194" width="240" />-->
     </p>
-    <p >Counter :- <%= @game.counter%></p>
-    <p >Missed Counter :- <%= @game.missed_counter%></p>
-    <p >previous_choice:- <%@game.previous_choice.each do |u|%>
-                                <%=u%>
-                          <%end%>
+
+    <p class="hangman-word">
+      <%@game.word_placeholder.each do |u|%>
+        <%=u%>
+      <%end%>
     </p>
-    <p class="center explanation">Guess the word</p>
+
+    <p class="center explanation guessWord">
+      Guess the word
+    </p>
+
     <%if @game.missed_counter < 6 && @game.counter != @game.word.length -%>
         <form action="/game/user_input" method="post">
           <div class="center">
@@ -44,21 +45,26 @@
             <input type="submit" name="character" class="button character" value="X" />
             <input type="submit" name="character" class="button character" value="Y" />
             <input type="submit" name="character" class="button character" value="Z" />
-            <!--<input type="hidden" name="param" value="17" />-->
-            <!--<input type="hidden" name="history" value="--------------------------" />-->
-            <!--<input type="hidden" name="word_id" value="637" />-->
-            <!--<input type="hidden" name="themes_ser" value="MT1BbmltYWxzfDU9Q2xvdGhlc3wxOD1EYXlzL01vbnRoc3w5PURpcmVjdGlvbnN8MTE9RmFudGFzeXwxMj1GYXJtfDY9Rm9vZHwzPUdlb2dyYXBoeXw0PUhhbGxvd2VlbnwxNz1Kb2JzfDI9TW9uZXl8MTk9T2x5bXBpY3N8Nz1TY2hvb2x8OD1UaW1lfDEwPVdlYXRoZXI=" />-->
-            <!--<input type="hidden" name="comment_ser" value="" />-->
           </div>
         </form>
     <%else%>
-    <P>Result </p>
-        <p><%=@result%></p>
-        <p><%=@result_word%></p>
     <%end-%>
 
     <%=link_to 'New Game', newgame_path, class:"btn btn-large btn-primary"%>
   </div>
 
+  <div id="gameStatus" class="span4">
+      <h3>Game Status</h3>
+      <p >Counter :- <%= @game.counter%></p>
+      <!--<div><img src="" alt="" height="" width="" /></div>-->
+      <p >Missed Counter :- <%= @game.missed_counter%></p>
+      <p >previous_choice :- <%@game.previous_choice.each do |u|%>
+            <%=u%>
+            <%end%>
+      </p>
+      <P>Result </p>
+      <h2><%=@result%></h2>
+      <p><%=@result_word%></p>
+  </div>
 
 </div>

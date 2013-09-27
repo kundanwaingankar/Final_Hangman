@@ -10,6 +10,12 @@ class ActiveSupport::TestCase
   # Note: You'll currently still have to declare fixtures explicitly in integration tests
   # -- they do not yet inherit this setting
   fixtures :all
-
+  def setup
+    @controller  = UsersController.new
+    @request     = ActionController::TestRequest.new
+    @response    = ActionController::TestResponse.new
+    login
+    @controller  = AdminController.new
+  end
   # Add more helper methods to be used by all tests here...
 end

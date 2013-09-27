@@ -5,6 +5,9 @@ class User < ActiveRecord::Base
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :trackable, :validatable,
          :token_authenticatable, :confirmable, :lockable
+
+  validates :email, presence: true, uniqueness: {case_sensitive: false}, length: {in: 6..25, too_long: "%{count} characters minimum allowed",too_short: "%{count} characters maximum allowed"}
+
   has_one :profile , dependent: :destroy
   accepts_nested_attributes_for :profile
   has_one :game , dependent: :destroy

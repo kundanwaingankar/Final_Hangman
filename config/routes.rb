@@ -1,13 +1,13 @@
 Devise4::Application.routes.draw do
   devise_for :users
 
-  get '/token' => 'home#token', as: :token
-  get "home/index"
-  #root :to => "home#index"
-  root 'home#index'
+  get '/token' => 'homes#token', as: :token
+  get "homes/index"
+  #root :to => "homes#index"
+  root 'homes#index'
 
   authenticated :user do
-    match '/help',    :to => 'home#help', via: 'get'
+    match '/help',    :to => 'homes#help', via: 'get'
   end
 
 

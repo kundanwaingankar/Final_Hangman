@@ -7,6 +7,7 @@ class GamesController < ApplicationController
     session[:game] = @game
     #puts @game.word
     current_user.game.played += 1
+    current_user.game.save
     session[:game_flag] = true
     redirect_to game_path
 
@@ -26,7 +27,7 @@ class GamesController < ApplicationController
       end
 
       if @game.missed_counter == 6
-        @result = "You lost"
+        @result = "SORRY, YOU ARE HANGED!!!"
         @result_word = "Game Word ::- " + @game.word
         current_user.game.lose += 1
         game = current_user.game

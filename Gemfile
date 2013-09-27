@@ -6,13 +6,16 @@ gem 'rails', '4.0.0'
 # Use mysql as the database for Active Record
 gem 'mysql'
 gem 'bootstrap-sass'
-gem 'devise', :git => 'git://github.com/plataformatec/devise.git', :ref => '49aebde'
+gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'oauth2'
 gem "omniauth-google-oauth2"
 gem 'certified'
-#gem 'devise'
+gem 'rspec-rails'
+gem 'factory_girl_rails', '1.0'
+gem 'will_paginate'
+    #gem 'devise'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
