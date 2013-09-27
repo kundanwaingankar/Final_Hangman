@@ -1,64 +1,69 @@
-<div class="text-center">
+<div class="row-fluid" id="game">
 
-  <div id="hangman">
+  <div class="span8 text-center">
 
-    <p class="center"><img src="/images/games/hangman01.png" alt="" height="194" width="240" /></p>
+    <div class="imgWrap">
+      <%=image_tag "hangman-#{@game.missed_counter}.gif",width: 250, height: 300%>
+    </div>
 
-    <p class="hangman-word"><%@game.word_placeholder.each do |u|%>
-                                    <%=u%>
-                            <%end%>
+    <p class="hangman-word">
+      <%@game.word_placeholder.each do |u|%>
+          <%=u%>
+      <%end%>
     </p>
-    <p >Counter :- <%= @game.counter%></p>
-    <p >Missed Counter :- <%= @game.missed_counter%></p>
-    <p >previous_choice:- <%@game.previous_choice.each do |u|%>
-                                <%=u%>
-                          <%end%>
+
+    <p class="center explanation guessWord">
+      Guess the word
     </p>
-    <p class="center explanation">Guess the word</p>
+
     <%if @game.missed_counter < 6 && @game.counter != @game.word.length -%>
         <form action="/game/user_input" method="post">
           <div class="center">
-            <input type="submit" name="character" class="button character" value="A" />
-            <input type="submit" name="character" class="button character" value="B" />
-            <input type="submit" name="character" class="button character" value="C" />
-            <input type="submit" name="character" class="button character" value="D" />
-            <input type="submit" name="character" class="button character" value="E" />
-            <input type="submit" name="character" class="button character" value="F" />
-            <input type="submit" name="character" class="button character" value="G" />
-            <input type="submit" name="character" class="button character" value="H" />
-            <input type="submit" name="character" class="button character" value="I" />
-            <br /><input type="submit" name="character" class="button character" value="J" />
-            <input type="submit" name="character" class="button character" value="K" />
-            <input type="submit" name="character" class="button character" value="L" />
-            <input type="submit" name="character" class="button character" value="M" />
-            <input type="submit" name="character" class="button character" value="N" />
-            <input type="submit" name="character" class="button character" value="O" />
-            <input type="submit" name="character" class="button character" value="P" />
-            <input type="submit" name="character" class="button character" value="Q" />
-            <input type="submit" name="character" class="button character" value="R" />
-            <br /><input type="submit" name="character" class="button character" value="S" />
-            <input type="submit" name="character" class="button character" value="T" />
-            <input type="submit" name="character" class="button character" value="U" />
-            <input type="submit" name="character" class="button character" value="V" />
-            <input type="submit" name="character" class="button character" value="W" />
-            <input type="submit" name="character" class="button character" value="X" />
-            <input type="submit" name="character" class="button character" value="Y" />
-            <input type="submit" name="character" class="button character" value="Z" />
-            <!--<input type="hidden" name="param" value="17" />-->
-            <!--<input type="hidden" name="history" value="--------------------------" />-->
-            <!--<input type="hidden" name="word_id" value="637" />-->
-            <!--<input type="hidden" name="themes_ser" value="MT1BbmltYWxzfDU9Q2xvdGhlc3wxOD1EYXlzL01vbnRoc3w5PURpcmVjdGlvbnN8MTE9RmFudGFzeXwxMj1GYXJtfDY9Rm9vZHwzPUdlb2dyYXBoeXw0PUhhbGxvd2VlbnwxNz1Kb2JzfDI9TW9uZXl8MTk9T2x5bXBpY3N8Nz1TY2hvb2x8OD1UaW1lfDEwPVdlYXRoZXI=" />-->
-            <!--<input type="hidden" name="comment_ser" value="" />-->
+            <input type="submit" name="character" class="button character charA" value="A" />
+            <input type="submit" name="character" class="button character charB" value="B" />
+            <input type="submit" name="character" class="button character charC" value="C" />
+            <input type="submit" name="character" class="button character charD" value="D" />
+            <input type="submit" name="character" class="button character charE" value="E" />
+            <input type="submit" name="character" class="button character charF" value="F" />
+            <input type="submit" name="character" class="button character charG" value="G" />
+            <input type="submit" name="character" class="button character charH" value="H" />
+            <input type="submit" name="character" class="button character charI" value="I" />
+            <br /><input type="submit" name="character" class="button character charJ" value="J" />
+            <input type="submit" name="character" class="button character charK" value="K" />
+            <input type="submit" name="character" class="button character charL" value="L" />
+            <input type="submit" name="character" class="button character charM" value="M" />
+            <input type="submit" name="character" class="button character charN" value="N" />
+            <input type="submit" name="character" class="button character charO" value="O" />
+            <input type="submit" name="character" class="button character charP" value="P" />
+            <input type="submit" name="character" class="button character charQ" value="Q" />
+            <input type="submit" name="character" class="button character charR" value="R" />
+            <br /><input type="submit" name="character" class="button character charS" value="S" />
+            <input type="submit" name="character" class="button character charT" value="T" />
+            <input type="submit" name="character" class="button character charU" value="U" />
+            <input type="submit" name="character" class="button character charV" value="V" />
+            <input type="submit" name="character" class="button character charW" value="W" />
+            <input type="submit" name="character" class="button character charX" value="X" />
+            <input type="submit" name="character" class="button character charY" value="Y" />
+            <input type="submit" name="character" class="button character charZ" value="Z" />
           </div>
         </form>
     <%else%>
-    <P>Result </p>
-        <p><%=@result%></p>
-        <p><%=@result_word%></p>
     <%end-%>
 
     <%=link_to 'New Game', newgame_path, class:"btn btn-large btn-primary"%>
   </div>
 
+  <div id="gameStatus" class="span4">
+    <h3>Game Status</h3>
+    <p >Remaining Chances:- <%= 6-@game.missed_counter%></p>
+    <p ><%= @game.word%></p>
+    <h2 class=<%if @game.missed_counter == 6-%>"loss"<%end-%>><%=@result%></h2>
+    <%if @game.missed_counter == 6 || @game.counter == @game.word.length -%>
+    <p class="correctWord">Correct Word : <b><%=@result_word%></b></p>
+    <%end-%>
+  </div>
 
 </div>
+<%= javascript_tag do %>
+    setAccounts(<%= @game.previous_choice.to_json.html_safe %>);
+<% end %>
