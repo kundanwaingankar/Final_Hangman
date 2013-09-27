@@ -39,14 +39,21 @@ header{
   }
 }
 .userAction{
-  p{
+    li{
+        ul{
+          margin-left: 0px;
+          li{
+            float:left;
+            margin-right: 10px;
+          }
+        }
     a{
       display: block;
       text-decoration: none;
-      text-align: center;
+      margin-bottom: 10px;
     }
     margin-bottom: 20px;
-  }
+    }
 }
 h1{
   margin-bottom: 30px;
@@ -93,3 +100,26 @@ footer{
     color:#fff;
   }
 }
+ul{
+  list-style: none;
+}
+$icon32SpritePath: image-path("32pixel-icons-2.png") !default;
+
+[class^="icon32-"],
+[class*=" icon32-"] {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  @include ie7-restore-right-whitespace();
+  line-height: 32px;
+  vertical-align: middle;
+  background-image: url($icon32SpritePath);
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+  margin-top: 1px;
+}
+.icon32-facebook { background-position: -60px 0px; }
+.icon32-github{background-position: -290px 0px;}
+.icon32-linkedin{background-position: -232px 0px;}
+.icon32-twitter{background-position: -174px 0px;}
+.icon32-google{background-position: 0px 0px;}

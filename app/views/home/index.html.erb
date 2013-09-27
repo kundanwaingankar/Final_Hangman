@@ -3,13 +3,36 @@
 <% unless user_signed_in? -%>
     <div class="clearfix">
     <div class="userAction span4 offset3">
-      <p><%= link_to 'Sign up', new_user_registration_path, class:"btn-large btn-success" %></p>
-      <p><%= link_to 'Sign in', new_user_session_path, class:"btn-large btn" %></p>
-      <p><%= link_to 'Login with Facebook', '/auth/facebook/', class:"btn-large btn-primary" %></p>
-      <p><%= link_to 'Login with Github', '/auth/github', class:"btn-large btn"%></p>
-      <p><%= link_to 'Login with Twitter', '/auth/twitter', class:"btn-large btn-info"%></p>
-      <p><%= link_to 'Login with LinkedIn', '/auth/linkedin', class:"btn-large btn-primary"%></p>
-      <p><%= link_to 'Login with Google+', '/auth/google_oauth2', class:"btn-large btn-danger"%></p>
+
+      <ul class="clearfix">
+        <li><%= link_to 'Sign up', new_user_registration_path, class:"btn-large btn btn-success" %></li>
+        <li><%= link_to 'Sign in', new_user_session_path, class:"btn-large btn" %></li>
+        <li><h4>SignIn with</h4></li>
+        <li>
+          <ul class="clearfix">
+            <li>
+              <%= link_to href:'/auth/facebook/' do %>
+                  <i class="icon32-facebook"></i>
+              <% end %>
+              <li><%= link_to href:'/auth/github' do %>
+                    <i class="icon32-github"></i>
+                <% end %></li>
+              <li><%= link_to href:'/auth/twitter' do %>
+                    <i class="icon32-twitter"></i>
+                <% end %></li>
+              <li><%= link_to href:'/auth/linkedin' do %>
+                    <i class="icon32-linkedin"></i>
+                <% end %></li>
+              <li><%= link_to href:'/auth/google_oauth2' do %>
+                    <i class="icon32-google"></i>
+                <% end %></li>
+
+          </ul>
+
+
+          </li>
+      </ul>
+
     </div>
     </div>
 <% end -%>
