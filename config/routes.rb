@@ -10,6 +10,9 @@ Devise4::Application.routes.draw do
     match '/help',    :to => 'home#help', via: 'get'
   end
 
+  match "getmail" => 'authentications#get_email', via: 'get'
+  match "setmail" => 'authentications#set_email', via: 'post'
+  match "error" => 'authentications#error_page', via: 'get'
 
   match '/auth/:provider/callback' => 'authentications#create' , via: 'get'
   match 'newgame' => 'games#new_game' , via: 'get'
