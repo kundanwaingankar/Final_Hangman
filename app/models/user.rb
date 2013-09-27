@@ -11,6 +11,7 @@ class User < ActiveRecord::Base
   accepts_nested_attributes_for :game
   has_many :authentications, :dependent => :delete_all
   after_create :set_default_game
+  validates :email, presence: true, uniqueness: {case_sensitive: false}, length: {in: 6..25, too_long: "%{count} characters minimum allowed",too_short: "%{count} characters maximum allowed"}
 
   def apply_omniauth(auth)
     # In previous omniauth, 'user_info' was used in place of 'raw_info'
