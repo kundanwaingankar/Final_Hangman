@@ -74,16 +74,18 @@ class AuthenticationsController < ApplicationController
       email_previous = session[:user_email]
       @user = User.find_by_email(email_new)
       @user1 = User.find_by_unconfirmed_email(email_new)
+      session.destroy
       if @user.nil? && @user1.nil?
         @user = User.find_by_email(email_previous)
         @user.email = email_new
         @user.save
+        sign_in_and_redirect(:user, @user)
       else
         @result = "Email Already Registered"
       end
       if @user1.nil?
       else
-        @result = "Verify Your Email."
+        @result = "You will receive an email with instructions about how to confirm your account in a few minutes."
       end
     end
   end
