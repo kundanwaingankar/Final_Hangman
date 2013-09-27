@@ -1,7 +1,7 @@
 class Game < ActiveRecord::Base
   belongs_to :user
 
-  before_create :set_default_values
+ # before_create :set_default_values
   validates :played, :win, :lose, numericality: {only_integer: true}
 
   private
