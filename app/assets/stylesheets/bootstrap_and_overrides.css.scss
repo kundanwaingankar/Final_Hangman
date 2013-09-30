@@ -121,7 +121,7 @@ footer{
 ul{
   list-style: none;
 }
-$icon32SpritePath: image-path("32pixel-icons-2.png") !default;
+$icon32SpritePath: image-path("/assets/32pixel-icons-2.png") !default;
 
 [class^="icon32-"],
 [class*=" icon32-"] {
