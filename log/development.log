@@ -38340,3 +38340,411 @@ Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/hangman-0.gif" for 127.0.0.1 at 2013-09-30 15:18:07 +0530
+
+
+Started GET "/game/user_input?character=C" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+Processing by GamesController#user_input as HTML
+  Parameters: {"character"=>"C"}
+Redirected to http://localhost:3000/game
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/game" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+Processing by GamesController#new as HTML
+  Rendered games/new.html.erb within layouts/application (1.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 3 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mProfile Load (1.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 3]]
+  Rendered layouts/_header.html.erb (4.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:53 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:54 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:55 +0530
+
+
+Started GET "/assets/hangman-0.gif" for 127.0.0.1 at 2013-09-30 18:17:55 +0530
+
+
+Started GET "/game/user_input?character=D" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+Processing by GamesController#user_input as HTML
+  Parameters: {"character"=>"D"}
+Redirected to http://localhost:3000/game
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/game" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+Processing by GamesController#new as HTML
+  Rendered games/new.html.erb within layouts/application (11.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 3 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mProfile Load (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 3]]
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:57 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 18:17:58 +0530
+
+
+Started GET "/assets/hangman-1.gif" for 127.0.0.1 at 2013-09-30 18:17:59 +0530
+
+
+Started GET "/game/user_input?character=P" for 127.0.0.1 at 2013-09-30 18:18:00 +0530
+Processing by GamesController#user_input as HTML
+  Parameters: {"character"=>"P"}
+Redirected to http://localhost:3000/game
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/game" for 127.0.0.1 at 2013-09-30 18:18:00 +0530
+Processing by GamesController#new as HTML
+  Rendered games/new.html.erb within layouts/application (17.1ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 3 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mProfile Load (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 3]]
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:00 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:00 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:01 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:02 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:02 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:02 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:02 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:02 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:02 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:02 +0530
+
+
+Started GET "/assets/hangman-2.gif" for 127.0.0.1 at 2013-09-30 18:18:02 +0530
+
+
+Started GET "/game/user_input?character=Q" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+Processing by GamesController#user_input as HTML
+  Parameters: {"character"=>"Q"}
+Redirected to http://localhost:3000/game
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/game" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+Processing by GamesController#new as HTML
+  Rendered games/new.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 3 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mProfile Load (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 3]]
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:04 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:05 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 18:18:06 +0530
+
+
+Started GET "/assets/hangman-3.gif" for 127.0.0.1 at 2013-09-30 18:18:06 +0530

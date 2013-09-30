@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe HomesController do
+describe HomeController do
   describe "GET /index" do
     it "Gives is the expected status code when authenticated." do
       # Sign in as a user.
