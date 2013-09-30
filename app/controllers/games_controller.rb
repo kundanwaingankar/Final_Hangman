@@ -52,7 +52,7 @@ class GamesController < ApplicationController
         session[:game_flag] = false
 
         # get word meaning
-        @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
+#        @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
         #puts word_def
 
       end
@@ -67,14 +67,14 @@ class GamesController < ApplicationController
         session[:game_flag] = false
 
         #get Word Meaning
-        @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
+ #       @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
         #puts word_def
 
       end
     else
       @result = session[:result]
       @result_word = session[:result_word]
-      @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
+#      @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
       #puts word_def
     end
   end
