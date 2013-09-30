@@ -27,6 +27,9 @@ Devise4::Application.configure do
       enable_starttls_auto: true
   }
 
+  #Paperclip.options[:command_path] = "/usr/local/bin/"
+
+  Paperclip.options[:command_path] = "C:/Program Files (x86)/ImageMagick-6.8.7-Q16"
   # Print deprecation notices to the Rails logger.
   config.active_support.deprecation = :log
 

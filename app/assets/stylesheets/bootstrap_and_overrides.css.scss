@@ -29,10 +29,28 @@ header{
         color:#ffffff;
         margin-left: 10px;
         a{
+          text-decoration: none;
           font-size: 14px;
           color: #fff;
           line-height: 18px;
+          .caret{
+            border-bottom-color: #FFFFFF;
+            border-top-color: #FFFFFF;
+          }
+        }
+        ul{
+          margin-left: 0px;
+          li{
+            float: none;
+            margin-left:0px;
+            a{
+              color:#000;
+              &:hover{
+                color: #ffffff;
+              }
+            }
 
+          }
         }
       }
     }
