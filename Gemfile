@@ -16,6 +16,8 @@ gem 'omniauth-twitter'
 gem 'omniauth-linkedin-oauth2'
 gem "omniauth-google-oauth2"
 
+gem "paperclip", "~> 3.0"
+gem "cocaine"
 #gem 'devise'
 
 # Use SCSS for stylesheets

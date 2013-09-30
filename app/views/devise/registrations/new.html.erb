@@ -1,7 +1,7 @@
 <h2>Sign up</h2>
 <% resource.build_profile %>
 <% resource.build_game %>
-<%= form_for(resource, :as => resource_name, :url => registration_path(resource_name),html: {class:"form-horizontal"}) do |f| %>
+<%= form_for(resource, :as => resource_name, :url => registration_path(resource_name),html: {class:"form-horizontal",:multipart => true}) do |f| %>
 
       <% if(devise_error_messages! !="") -%>
         <div class="alert alert-error">
@@ -45,6 +45,7 @@
             <%= profile_form.text_field :last_name, :autofocus => true, placeholder:"Last Name" %>
           </div>
         </div>
+
         <div class="control-group">
           <%= profile_form.label :gender, class:"control-label" %>
           <div class="controls gender">
@@ -54,7 +55,12 @@
             <%=profile_form.label :gender_female,"Female"%>
           </div>
         </div>
-
+        <div class="control-group">
+          <%= profile_form.label :avatar,"Profile Picture", class:"control-label" %>
+          <div class="controls">
+            <%= profile_form.file_field :avatar%>
+          </div>
+        </div>
     <% end %>
     <div class="control-group">
         <div class="controls">
