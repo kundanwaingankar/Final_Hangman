@@ -4,6 +4,15 @@ class GamesController < ApplicationController
 
   def new_game
 
+    #######
+    #	options.reverse_merge!(
+    #		:min_length => 4
+    #         )
+    #	get random word from wordnik
+    #	str = Wordnik.words.get_random_word(:nim_length => 4)
+    #	puts str["word"]
+
+    #########
     flag = true
     game_word = ""
     # Word Length should be greater 3
@@ -19,6 +28,10 @@ class GamesController < ApplicationController
     end while flag
     @game = HANGMAN::Hangman.new(game_word.downcase)
     session[:game] = @game
+
+    # Get word definition
+    #
+
     current_user.game.played += 1
     current_user.game.save
     session[:game_flag] = true
@@ -37,6 +50,11 @@ class GamesController < ApplicationController
         game = current_user.game
         game.save
         session[:game_flag] = false
+
+        # get word meaning
+        @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
+        #puts word_def
+
       end
       if @game.missed_counter == 6
         @result = "SORRY, YOU ARE HANGED!!!"
@@ -47,10 +65,17 @@ class GamesController < ApplicationController
         game = current_user.game
         game.save
         session[:game_flag] = false
+
+        #get Word Meaning
+        @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
+        #puts word_def
+
       end
     else
       @result = session[:result]
       @result_word = session[:result_word]
+      @word_def = Wordnik.word.get_definitions(@game.word, :limit => 3)
+      #puts word_def
     end
   end
 

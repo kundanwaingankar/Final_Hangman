@@ -15,6 +15,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
     <orderEntry type="library" scope="PROVIDED" name="actionmailer (v4.0.0, ruby-1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v4.0.0, ruby-1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.0.0, ruby-1.9.3-p429) [gem]" level="application" />
@@ -88,6 +89,8 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.37, ruby-1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.2.1, ruby-1.9.3-p429) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="warden (v1.2.3, ruby-1.9.3-p429) [gem]" level="application" />
+=======
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />

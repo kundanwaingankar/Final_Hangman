@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="778b5974-5374-48ac-a3e7-74a30b51c97f" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/thumb/missing.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/874f196ab602286a51c416e3fe76ac5c" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/874f196ab602286a51c416e3fe76ac5c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/8ab512c9b33ac90e699b73469d71f061" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/8ab512c9b33ac90e699b73469d71f061" />
@@ -13,6 +14,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/profile.rb" afterPath="$PROJECT_DIR$/app/models/profile.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/pids/server.pid" afterPath="$PROJECT_DIR$/tmp/pids/server.pid" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Final_Hangman.iml" afterPath="$PROJECT_DIR$/.idea/Final_Hangman.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/games_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/games_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/games/new.html.erb" afterPath="$PROJECT_DIR$/app/views/games/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Final_Hangman.iws" />
@@ -21,10 +29,17 @@
     <file path="/Gemfile" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380260660894" ignored="false" />
     <file path="/index.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380282741145" ignored="false" />
     <file path="/application.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380086263981" ignored="false" />
+<<<<<<< HEAD
     <file path="/bootstrap_and_overrides.css.scss" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380282596706" ignored="false" />
     <file path="/_header.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380016080194" ignored="false" />
     <file path="/new.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380201281959" ignored="false" />
     <file path="/Dummy.txt" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380518190114" ignored="false" />
+=======
+    <file path="/bootstrap_and_overrides.css.scss" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380440966116" ignored="false" />
+    <file path="/_header.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380439595512" ignored="false" />
+    <file path="/new.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380522812474" ignored="false" />
+    <file path="/Dummy.txt" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380522565943" ignored="false" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
     <file path="/_errors.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380022098031" ignored="false" />
     <file path="/a.dummy" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380284186882" ignored="false" />
     <file path="/edit.html.erb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380286257789" ignored="false" />
@@ -34,7 +49,7 @@
     <file path="/20130924125916_create_games.rb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380027637420" ignored="false" />
     <file path="/user.rb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380027679517" ignored="false" />
     <file path="/games_controller.rb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380259132289" ignored="false" />
-    <file path="/routes.rb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380111411204" ignored="false" />
+    <file path="/routes.rb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380522806349" ignored="false" />
     <file path="/home.css.scss" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380192315951" ignored="false" />
     <file path="/hangman.rb" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380111690812" ignored="false" />
     <file path="/script.js" changelist="778b5974-5374-48ac-a3e7-74a30b51c97f" time="1380177750430" ignored="false" />
@@ -67,33 +82,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="111" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0">
+=======
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="29" selection-start="468" selection-end="468" vertical-scroll-proportion="0.37868163">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="bootstrap_and_overrides.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state line="124" column="74" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.0">
+=======
+      <file leaf-file-name="games_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/games_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="2" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="80" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+=======
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="57" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="game_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/models/game_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,6 +191,12 @@
         <entry file="file://$PROJECT_DIR$/app/models/profile.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="133" selection-start="354" selection-end="354" vertical-scroll-proportion="0.14049587">
+=======
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/games/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="51" selection-start="509" selection-end="509" vertical-scroll-proportion="-7.4583335">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
               <folding />
             </state>
           </provider>
@@ -183,6 +226,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
         <option value="$PROJECT_DIR$/app/views/games/new.html.erb" />
@@ -190,15 +234,30 @@
         <option value="$PROJECT_DIR$/app/views/authentications/set_email.html.erb" />
         <option value="$PROJECT_DIR$/app/views/authentications/error_page.html.erb" />
         <option value="$PROJECT_DIR$/app/views/authentications/get_email.html.erb" />
+=======
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
         <option value="$PROJECT_DIR$/app/controllers/authentications_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/devise/passwords/edit.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/environments/test.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/models/game.rb" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+=======
+        <option value="$PROJECT_DIR$/db/migrate/20130929060609_add_avatar_to_profiles.rb" />
+        <option value="$PROJECT_DIR$/config/environments/development.rb" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss" />
         <option value="$PROJECT_DIR$/app/models/profile.rb" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/games/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/games_controller.rb" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
       </list>
     </option>
   </component>
@@ -210,10 +269,17 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
+=======
+    <option name="x" value="-1" />
+    <option name="y" value="27" />
+    <option name="width" value="1442" />
+    <option name="height" value="874" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -241,7 +307,10 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -270,7 +339,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="app" />
+=======
+              <option name="myItemId" value="config" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -288,7 +361,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="models" />
+=======
+              <option name="myItemId" value="views" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -306,7 +383,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="assets" />
+=======
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="games" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,7 +431,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -360,20 +445,24 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
       <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ROR_Git/DeviceWithRails4" />
     <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -858,18 +947,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
+=======
+    <frame x="-1" y="27" width="1442" height="874" extended-state="6" />
+    <editor active="false" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32746956" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2889318" sideWeight="0.57239515" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30652174" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42760488" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29411766" sideWeight="0.33443162" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30652174" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6644909" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -944,6 +1046,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/views/authentications/get_email.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="48" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" />
@@ -965,40 +1068,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/devise/passwords/new.html.erb">
+=======
+    <entry file="file://$PROJECT_DIR$/app/views/devise/mailer/confirmation_instructions.html.erb">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/devise/unlocks/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="8" column="61" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1379961164000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/models/game_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/devise/mailer/confirmation_instructions.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="74" selection-start="1631" selection-end="1631" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+=======
+        <state line="35" column="74" selection-start="1631" selection-end="1631" vertical-scroll-proportion="0.0" />
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
@@ -1008,20 +1095,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="191" selection-end="191" vertical-scroll-proportion="0.12622721">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20130929060609_add_avatar_to_profiles.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="41" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="83" selection-start="1287" selection-end="1287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="80" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+=======
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="31" selection-start="582" selection-end="582" vertical-scroll-proportion="0.021037867">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/models/game.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="4" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+=======
+    <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="157" selection-start="207" selection-end="207" vertical-scroll-proportion="0.022189349">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="49" selection-start="530" selection-end="530" vertical-scroll-proportion="-8.5">
@@ -1034,20 +1162,61 @@
     <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="111" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="74" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/app/models/profile.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="84" selection-start="305" selection-end="305" vertical-scroll-proportion="0.06428572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="62" selection-start="2323" selection-end="2323" vertical-scroll-proportion="0.0">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state line="124" column="74" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.0">
+=======
+        <state line="12" column="96" selection-start="482" selection-end="482" vertical-scroll-proportion="0.26124817">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/games/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="51" selection-start="509" selection-end="509" vertical-scroll-proportion="-7.4583335">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="3" column="133" selection-start="354" selection-end="354" vertical-scroll-proportion="0.14049587">
+=======
+        <state line="19" column="57" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/games_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="29" selection-start="468" selection-end="468" vertical-scroll-proportion="0.37868163">
+>>>>>>> 762f6a1ec0d08fcedbd5ca97ed79462e40721d44
           <folding />
         </state>
       </provider>

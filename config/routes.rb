@@ -17,7 +17,7 @@ Devise4::Application.routes.draw do
   match '/auth/:provider/callback' => 'authentications#create' , via: 'get'
   match 'newgame' => 'games#new_game' , via: 'get'
   match 'game' => 'games#new' , via: 'get'
-  match 'game/user_input' =>'games#user_input', via: 'post'
+  match 'game/user_input' =>'games#user_input', via: 'get'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
