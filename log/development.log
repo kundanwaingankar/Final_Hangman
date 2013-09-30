@@ -34451,3 +34451,3892 @@ Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:03:33 +0530
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:03:33 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (6.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 29ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:38 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:10:39 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:10:42 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:42 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:42 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:42 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:42 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:10:42 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:43 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:44 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:44 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:10:44 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:11:09 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (6.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 62ms (Views: 59.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:09 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:09 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:09 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:09 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:10 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:11 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:11 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:11 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:11 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:11 +0530
+
+
+Started GET "/auth/facebook/" for 127.0.0.1 at 2013-09-30 14:11:23 +0530
+
+
+Started GET "/auth/facebook/" for 127.0.0.1 at 2013-09-30 14:11:24 +0530
+
+
+Started GET "/auth/facebook/callback?code=AQCFWFloQDFTuPR4NtN0ia1voVsGix7erWnGDxjEKePb82IEPUcXbcSoB-c1qKibBvk6uDqx6CfXDAr_91Dl2Wd31vSJytYufRrkjM7L23Xn-uzQtrK2g0pmsn42PFHXhY8d_s3Oa5HdqT4l9TXZ-KkBKRQVZ-EclS30kW_Y1wololUEAtNl3sKdDgHS7zBF_KkkkNCwA4obA5l-EsBCARVjnZOu8Kl2Te69hWDm__bR0K_77uf0JXolnZbSnd4pvlhmeMU9Ub3dd7IRLsHkOKhPpkzH6leYPeb2hNOEBsRlV5FkazZj35c_wag4-lWqARY&state=a8e77667509285ffa9b48ef8b1c9c3639434d3fb60962e98" for 127.0.0.1 at 2013-09-30 14:11:44 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"code"=>"AQCFWFloQDFTuPR4NtN0ia1voVsGix7erWnGDxjEKePb82IEPUcXbcSoB-c1qKibBvk6uDqx6CfXDAr_91Dl2Wd31vSJytYufRrkjM7L23Xn-uzQtrK2g0pmsn42PFHXhY8d_s3Oa5HdqT4l9TXZ-KkBKRQVZ-EclS30kW_Y1wololUEAtNl3sKdDgHS7zBF_KkkkNCwA4obA5l-EsBCARVjnZOu8Kl2Te69hWDm__bR0K_77uf0JXolnZbSnd4pvlhmeMU9Ub3dd7IRLsHkOKhPpkzH6leYPeb2hNOEBsRlV5FkazZj35c_wag4-lWqARY", "state"=>"a8e77667509285ffa9b48ef8b1c9c3639434d3fb60962e98", "provider"=>"facebook"}
+  [1m[36mAuthentication Load (1.0ms)[0m  [1mSELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'facebook' AND `authentications`.`uid` = '100001505143657' LIMIT 1[0m
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`email` = 'kundanw1990@gmail.com' LIMIT 1
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = 'mCFgokpLS1fL8LzqrSBU' LIMIT 1
+  [1m[36mSQL (23.0ms)[0m  [1mINSERT INTO `users` (`confirmation_sent_at`, `confirmation_token`, `created_at`, `email`, `updated_at`) VALUES (?, ?, ?, ?, ?)[0m  [["confirmation_sent_at", Mon, 30 Sep 2013 08:41:46 UTC +00:00], ["confirmation_token", "mCFgokpLS1fL8LzqrSBU"], ["created_at", Mon, 30 Sep 2013 08:41:46 UTC +00:00], ["email", "kundanw1990@gmail.com"], ["updated_at", Mon, 30 Sep 2013 08:41:46 UTC +00:00]]
+  Rendered devise/mailer/confirmation_instructions.html.erb (1.0ms)
+
+Sent mail to kundanw1990@gmail.com (5613.3ms)
+Date: Mon, 30 Sep 2013 14:11:46 +0530
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: kundanw1990@gmail.com
+Message-ID: <5249394a517ed_162830870b457779@iternia25.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome kundanw1990@gmail.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://localhost:3000/users/confirmation?confirmation_token=mCFgokpLS1fL8LzqrSBU">Confirm my account</a></p>
+
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO `profiles` (`created_at`, `first_name`, `gender`, `last_name`, `updated_at`, `user_id`) VALUES (?, ?, ?, ?, ?, ?)  [["created_at", Mon, 30 Sep 2013 08:41:51 UTC +00:00], ["first_name", "Kundan"], ["gender", "male"], ["last_name", "Waingankar"], ["updated_at", Mon, 30 Sep 2013 08:41:51 UTC +00:00], ["user_id", 1]]
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO `authentications` (`created_at`, `provider`, `token`, `uid`, `updated_at`, `user_id`) VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 30 Sep 2013 08:41:51 UTC +00:00], ["provider", "facebook"], ["token", "CAAFBAHtSTMkBAPjS4WWXLGHTjaArFJNdwFHd9VRe0ioGZBrJ69tkW3YkZCEEiCy0rSVfthR2WPfZAk5yjFFz2ZCP9drGx4g9wSlU406CqL7xitcxJQjkunizuwd8VvkfxV5LUwnlp8VISrJ3A38KcN91d6ZBalo9ED1S7VbCwhQa2yixe09dG"], ["uid", "100001505143657"], ["updated_at", Mon, 30 Sep 2013 08:41:51 UTC +00:00], ["user_id", 1]]
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO `games` (`created_at`, `lose`, `played`, `updated_at`, `user_id`, `win`) VALUES (?, ?, ?, ?, ?, ?)  [["created_at", Mon, 30 Sep 2013 08:41:51 UTC +00:00], ["lose", 0], ["played", 0], ["updated_at", Mon, 30 Sep 2013 08:41:51 UTC +00:00], ["user_id", 1], ["win", 0]]
+  [1m[36mGame Load (0.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  [1m[35m (21.2ms)[0m  COMMIT
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  COMMIT
+Completed 401 Unauthorized in 5720ms
+
+
+Started GET "/auth/facebook/callback?code=AQDfJVAPojyUeqLjruVSCOjEPippXcwJZ_Tb5EAIa0xHpx6-R35XwTTUA69D6WTCCBzt-lHtA1s1iyg1rUBkmTOyNkxPps2Mjb2lWxLjwUVq7XeqactpighqMXQVBFSLZZdPOOXk_bNC5Am2DeT1_ENQFRclG3FFHAiruFKDpx9pkADobKT83jqzqRodQTwFZ4SKscEqsNAzJtMjaHowqzPKhW8wNtCbWnZQCPkZN9QNm318VQa6ym4FB_MPTmQ3ZmIhCOPHxw6IFilS09cVoLzG8DFBcGF3ByX7ddWwmbHbvLwQ1OsonzvP5lQCyitJJww&state=a8e77667509285ffa9b48ef8b1c9c3639434d3fb60962e98" for 127.0.0.1 at 2013-09-30 14:11:52 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"code"=>"AQDfJVAPojyUeqLjruVSCOjEPippXcwJZ_Tb5EAIa0xHpx6-R35XwTTUA69D6WTCCBzt-lHtA1s1iyg1rUBkmTOyNkxPps2Mjb2lWxLjwUVq7XeqactpighqMXQVBFSLZZdPOOXk_bNC5Am2DeT1_ENQFRclG3FFHAiruFKDpx9pkADobKT83jqzqRodQTwFZ4SKscEqsNAzJtMjaHowqzPKhW8wNtCbWnZQCPkZN9QNm318VQa6ym4FB_MPTmQ3ZmIhCOPHxw6IFilS09cVoLzG8DFBcGF3ByX7ddWwmbHbvLwQ1OsonzvP5lQCyitJJww", "state"=>"a8e77667509285ffa9b48ef8b1c9c3639434d3fb60962e98", "provider"=>"facebook"}
+  [1m[36mAuthentication Load (1.0ms)[0m  [1mSELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'facebook' AND `authentications`.`uid` = '100001505143657' LIMIT 1[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1  [["id", 1]]
+  [1m[36mSQL (1.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  COMMIT
+Completed 401 Unauthorized in 7ms
+
+
+Started GET "/auth/facebook/callback?code=AQB3nLQFmSCtXnWeXpYyik_IXAgcYanbennKCvIOMsqjF4howMa0hL5H_6GPY16xvM8TMDyejyTLlQTMmAxUEWvbnKOlmuv1RjiWPPFK1sLOOixl_GN8dgtixKB3qy6721qEaogUXj1BHdnHjqQQESOw_Uapw2n96yAF92LCKIC3-8POS7A4Zi7Z3V3N822LLYQV5dOBxvhVQbTv7Eb00_P_eGSJISUCAYtSIx52ZpWs9im2lMVTuVmmfVGjCwE4jsd_XlPdUUXmKJNR2nDRlHuXXIYMKNr4LdI75ikFzFVtb_LIkNmq4CYUfAPZ1I9yXrU&state=a8e77667509285ffa9b48ef8b1c9c3639434d3fb60962e98" for 127.0.0.1 at 2013-09-30 14:11:53 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"code"=>"AQB3nLQFmSCtXnWeXpYyik_IXAgcYanbennKCvIOMsqjF4howMa0hL5H_6GPY16xvM8TMDyejyTLlQTMmAxUEWvbnKOlmuv1RjiWPPFK1sLOOixl_GN8dgtixKB3qy6721qEaogUXj1BHdnHjqQQESOw_Uapw2n96yAF92LCKIC3-8POS7A4Zi7Z3V3N822LLYQV5dOBxvhVQbTv7Eb00_P_eGSJISUCAYtSIx52ZpWs9im2lMVTuVmmfVGjCwE4jsd_XlPdUUXmKJNR2nDRlHuXXIYMKNr4LdI75ikFzFVtb_LIkNmq4CYUfAPZ1I9yXrU", "state"=>"a8e77667509285ffa9b48ef8b1c9c3639434d3fb60962e98", "provider"=>"facebook"}
+  [1m[36mAuthentication Load (1.0ms)[0m  [1mSELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'facebook' AND `authentications`.`uid` = '100001505143657' LIMIT 1[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1  [["id", 1]]
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  COMMIT
+Completed 401 Unauthorized in 8ms
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2013-09-30 14:11:55 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (2.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (6.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:55 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:55 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:55 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:55 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:11:55 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:55 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:56 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:57 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:57 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:11:57 +0530
+
+
+Started GET "/users/confirmation?confirmation_token=mCFgokpLS1fL8LzqrSBU" for 127.0.0.1 at 2013-09-30 14:13:05 +0530
+Processing by Devise::ConfirmationsController#show as HTML
+  Parameters: {"confirmation_token"=>"mCFgokpLS1fL8LzqrSBU"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = 'mCFgokpLS1fL8LzqrSBU' LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mSQL (1.0ms)[0m  [1mUPDATE `users` SET `confirmation_token` = ?, `confirmed_at` = ?, `updated_at` = ? WHERE `users`.`id` = 1[0m  [["confirmation_token", nil], ["confirmed_at", Mon, 30 Sep 2013 08:43:05 UTC +00:00], ["updated_at", Mon, 30 Sep 2013 08:43:05 UTC +00:00]]
+  [1m[35m (30.7ms)[0m  COMMIT
+  [1m[36mSQL (1.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (2.0ms)[0m  UPDATE `users` SET `last_sign_in_at` = ?, `current_sign_in_at` = ?, `last_sign_in_ip` = ?, `current_sign_in_ip` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 1  [["last_sign_in_at", Mon, 30 Sep 2013 08:43:05 UTC +00:00], ["current_sign_in_at", Mon, 30 Sep 2013 08:43:05 UTC +00:00], ["last_sign_in_ip", "127.0.0.1"], ["current_sign_in_ip", "127.0.0.1"], ["sign_in_count", 1], ["updated_at", Mon, 30 Sep 2013 08:43:05 UTC +00:00]]
+  [1m[36m (29.0ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/auth/facebook/callback?code=AQB3nLQFmSCtXnWeXpYyik_IXAgcYanbennKCvIOMsqjF4howMa0hL5H_6GPY16xvM8TMDyejyTLlQTMmAxUEWvbnKOlmuv1RjiWPPFK1sLOOixl_GN8dgtixKB3qy6721qEaogUXj1BHdnHjqQQESOw_Uapw2n96yAF92LCKIC3-8POS7A4Zi7Z3V3N822LLYQV5dOBxvhVQbTv7Eb00_P_eGSJISUCAYtSIx52ZpWs9im2lMVTuVmmfVGjCwE4jsd_XlPdUUXmKJNR2nDRlHuXXIYMKNr4LdI75ikFzFVtb_LIkNmq4CYUfAPZ1I9yXrU&state=a8e77667509285ffa9b48ef8b1c9c3639434d3fb60962e98
+Completed 302 Found in 73ms (ActiveRecord: 64.8ms)
+
+
+Started GET "/auth/facebook/callback?code=AQB3nLQFmSCtXnWeXpYyik_IXAgcYanbennKCvIOMsqjF4howMa0hL5H_6GPY16xvM8TMDyejyTLlQTMmAxUEWvbnKOlmuv1RjiWPPFK1sLOOixl_GN8dgtixKB3qy6721qEaogUXj1BHdnHjqQQESOw_Uapw2n96yAF92LCKIC3-8POS7A4Zi7Z3V3N822LLYQV5dOBxvhVQbTv7Eb00_P_eGSJISUCAYtSIx52ZpWs9im2lMVTuVmmfVGjCwE4jsd_XlPdUUXmKJNR2nDRlHuXXIYMKNr4LdI75ikFzFVtb_LIkNmq4CYUfAPZ1I9yXrU&state=a8e77667509285ffa9b48ef8b1c9c3639434d3fb60962e98" for 127.0.0.1 at 2013-09-30 14:13:05 +0530
+
+OmniAuth::Strategies::OAuth2::CallbackError (OmniAuth::Strategies::OAuth2::CallbackError):
+  omniauth-oauth2 (1.1.1) lib/omniauth/strategies/oauth2.rb:71:in `callback_phase'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:226:in `callback_call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:182:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/builder.rb:49:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `catch'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.0) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:373:in `_run__212011992__call__callbacks'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (21.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:20:14 +0530
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mGame Load (1.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[35mProfile Load (0.0ms)[0m  SELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 29ms (Views: 24.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:15 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:16 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:20:17 +0530
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2013-09-30 14:20:25 +0530
+Processing by Devise::RegistrationsController#edit as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mProfile Load (0.0ms)[0m  SELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered devise/registrations/edit.html.erb within layouts/application (92.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 115ms (Views: 113.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:20:25 +0530
+
+
+Started PUT "/users" for 127.0.0.1 at 2013-09-30 14:20:42 +0530
+Processing by Devise::RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3f6kDiGzFz4K95WP9GBIfZrdIa5VnQ3Tv8pgE6HOVDY=", "user"=>{"email"=>"kundanw1990@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]", "profile_attributes"=>{"first_name"=>"Kundan", "last_name"=>"Waingankar", "gender"=>"male", "avatar"=>#<ActionDispatch::Http::UploadedFile:0x5e1c928 @tempfile=#<File:C:/Users/ITERNI~1/AppData/Local/Temp/RackMultipart20130930-5672-4p2vmo>, @original_filename="IMG_0002.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"user[profile_attributes][avatar]\"; filename=\"IMG_0002.jpg\"\r\nContent-Type: image/jpeg\r\n">, "id"=>"1"}}, "commit"=>"Update"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? LIMIT 1  [["id", 1]]
+  [1m[36mProfile Load (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+Command :: identify -format '%wx%h,%[exif:orientation]' "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]"
+Command :: convert "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]" -auto-orient -resize "300x300>" "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp220130930-5672-9hwv3g"
+Command :: file -b --mime "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp220130930-5672-9hwv3g"
+[paperclip] Error while determining content type: Cocaine::CommandNotFoundError
+Command :: identify -format '%wx%h,%[exif:orientation]' "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]"
+Command :: convert "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp2.jpg[0]" -auto-orient -resize "100x100>" "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp220130930-5672-1t5gu2t"
+Command :: file -b --mime "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-1u9nbp220130930-5672-1t5gu2t"
+[paperclip] Error while determining content type: Cocaine::CommandNotFoundError
+  [1m[35mUser Exists (0.0ms)[0m  SELECT 1 AS one FROM `users` WHERE (`users`.`email` = 'kundanw1990@gmail.com' AND `users`.`id` != 1) LIMIT 1
+  Rendered devise/registrations/edit.html.erb within layouts/application (6.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 2948ms (Views: 24.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:45 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:45 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:45 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:45 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:45 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:45 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:46 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:47 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:47 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:20:47 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mGame Load (0.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[35mProfile Load (1.0ms)[0m  SELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 16.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:20:59 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:00 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:21:01 +0530
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"3f6kDiGzFz4K95WP9GBIfZrdIa5VnQ3Tv8pgE6HOVDY="}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 9ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (25.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 46ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:31 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:32 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:21:33 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:21:33 +0530
+
+
+Started GET "/auth/facebook/" for 127.0.0.1 at 2013-09-30 14:23:57 +0530
+
+
+Started GET "/auth/facebook/" for 127.0.0.1 at 2013-09-30 14:23:59 +0530
+
+
+Started GET "/auth/facebook/callback?code=AQC2zQCwEjYNUPefzuYmQEYKfh8i6KCvIyb01JNs1zje7qQzi0SijiqPmiSj5sVYRqV3paX3fINPTFei3T7VBpcQOJD-o_EYcjHgeFFMueMZKZ6GjPyTxOt8MYIQsrTTNj7Ikge40Ezo4g3LzpvIpksexc46Vhj2rcm84fixc0xS9V7FmGQ_OO1sSJTjyXLIo_BK0_DbfqFy8fqND4a2cGK6hZbexG9MeetBXVW_g3vRbI4kTaoc2N9DgUgfsaPt8nDXrqJkfaZtyY_KxyMZxfem8npeqKHiA6cxfeuc94vv9ldcpsjaFCUd0QOXPMCU4FE&state=9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4" for 127.0.0.1 at 2013-09-30 14:24:23 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"code"=>"AQC2zQCwEjYNUPefzuYmQEYKfh8i6KCvIyb01JNs1zje7qQzi0SijiqPmiSj5sVYRqV3paX3fINPTFei3T7VBpcQOJD-o_EYcjHgeFFMueMZKZ6GjPyTxOt8MYIQsrTTNj7Ikge40Ezo4g3LzpvIpksexc46Vhj2rcm84fixc0xS9V7FmGQ_OO1sSJTjyXLIo_BK0_DbfqFy8fqND4a2cGK6hZbexG9MeetBXVW_g3vRbI4kTaoc2N9DgUgfsaPt8nDXrqJkfaZtyY_KxyMZxfem8npeqKHiA6cxfeuc94vv9ldcpsjaFCUd0QOXPMCU4FE", "state"=>"9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4", "provider"=>"facebook"}
+  [1m[35mAuthentication Load (0.0ms)[0m  SELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'facebook' AND `authentications`.`uid` = '100001505143657' LIMIT 1
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`email` = 'kundanw1990@gmail.com' LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = 'HJqdfjfHqMZ2heD5u3xG' LIMIT 1[0m
+  [1m[35mSQL (2.6ms)[0m  INSERT INTO `users` (`confirmation_sent_at`, `confirmation_token`, `created_at`, `email`, `updated_at`) VALUES (?, ?, ?, ?, ?)  [["confirmation_sent_at", Mon, 30 Sep 2013 08:54:25 UTC +00:00], ["confirmation_token", "HJqdfjfHqMZ2heD5u3xG"], ["created_at", Mon, 30 Sep 2013 08:54:25 UTC +00:00], ["email", "kundanw1990@gmail.com"], ["updated_at", Mon, 30 Sep 2013 08:54:25 UTC +00:00]]
+  Rendered devise/mailer/confirmation_instructions.html.erb (0.0ms)
+
+Sent mail to kundanw1990@gmail.com (5704.4ms)
+Date: Mon, 30 Sep 2013 14:24:25 +0530
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: kundanw1990@gmail.com
+Message-ID: <52493c41d7a2d_16282f9aa50578ea@iternia25.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome kundanw1990@gmail.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://localhost:3000/users/confirmation?confirmation_token=HJqdfjfHqMZ2heD5u3xG">Confirm my account</a></p>
+
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO `profiles` (`created_at`, `first_name`, `gender`, `last_name`, `updated_at`, `user_id`) VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 30 Sep 2013 08:54:31 UTC +00:00], ["first_name", "Kundan"], ["gender", "male"], ["last_name", "Waingankar"], ["updated_at", Mon, 30 Sep 2013 08:54:31 UTC +00:00], ["user_id", 1]]
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO `authentications` (`created_at`, `provider`, `token`, `uid`, `updated_at`, `user_id`) VALUES (?, ?, ?, ?, ?, ?)  [["created_at", Mon, 30 Sep 2013 08:54:31 UTC +00:00], ["provider", "facebook"], ["token", "CAAFBAHtSTMkBABKdnaQAEP8l0lN87mYGKRkqda6ntgU9m8TFBKXYvSSdgDr69xprwKz3c4ziIlOcW0rDVreEiYFmsTOKzkbzWIYlZBbgIBZAIdyvWBnBUeci9JEcXhwVMPYsQ3X43ZCGWy88P6oTkPboTnu9fJN3b6EpCUfyh46hoOjrrYS"], ["uid", "100001505143657"], ["updated_at", Mon, 30 Sep 2013 08:54:31 UTC +00:00], ["user_id", 1]]
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO `games` (`created_at`, `lose`, `played`, `updated_at`, `user_id`, `win`) VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 30 Sep 2013 08:54:31 UTC +00:00], ["lose", 0], ["played", 0], ["updated_at", Mon, 30 Sep 2013 08:54:31 UTC +00:00], ["user_id", 1], ["win", 0]]
+  [1m[35mGame Load (0.0ms)[0m  SELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1  [["user_id", 1]]
+  [1m[36m (20.0ms)[0m  [1mCOMMIT[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Completed 401 Unauthorized in 5796ms
+
+
+Started GET "/auth/facebook/callback?code=AQCqtOYmcs9IZzogGlRQD7g3YaIUamMYgS-v3s4RAYcLRHLONva4gQ7KpS_xHpa7HFB649JUqwpZCsKEfG0JpwOayUwWu099JaoEzmOudVxOnRoiLWb9YX2vTDe5KddP3ezt56vq-E__0SfZ7dqGfuvRK1SJYjcB7RSHFaAZqzdIiLJl4Ig9s3_j_OeuX2CNtHY8YZHBI0AVurQiHKj5JHeubqiA4WFgCXJh6TmJZ6I8y7lDyomhfSNi2WtrwaH9TDz-0BxVm6hK7gdinNBmCRO-88wpolLJzMpLvXE6_xqtOKyg8U4JEc7oglUMvHjSSiw&state=9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4" for 127.0.0.1 at 2013-09-30 14:24:31 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"code"=>"AQCqtOYmcs9IZzogGlRQD7g3YaIUamMYgS-v3s4RAYcLRHLONva4gQ7KpS_xHpa7HFB649JUqwpZCsKEfG0JpwOayUwWu099JaoEzmOudVxOnRoiLWb9YX2vTDe5KddP3ezt56vq-E__0SfZ7dqGfuvRK1SJYjcB7RSHFaAZqzdIiLJl4Ig9s3_j_OeuX2CNtHY8YZHBI0AVurQiHKj5JHeubqiA4WFgCXJh6TmJZ6I8y7lDyomhfSNi2WtrwaH9TDz-0BxVm6hK7gdinNBmCRO-88wpolLJzMpLvXE6_xqtOKyg8U4JEc7oglUMvHjSSiw", "state"=>"9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4", "provider"=>"facebook"}
+  [1m[35mAuthentication Load (1.0ms)[0m  SELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'facebook' AND `authentications`.`uid` = '100001505143657' LIMIT 1
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Completed 401 Unauthorized in 7ms
+
+
+Started GET "/auth/facebook/callback?code=AQCidTvhSfeXCxZA1Y55pEA8Y2kcjSVp_GExdkwAyeErbmtZh1qnhrulZfEbQBjGL12nH7-qKDqcnCHLuTa070YKjjeDCKVuMdWmgmV2a77NSYojZ4RSAlp3VZQWT33tEvEzRiPpYqZTL0UfylTkIjCwWGkIDZmeOUHnhO8enuSmeWAU2pSpn7Yo8p6GZuJ9UgL3oxndYjrgwG9CAYgsCYCgC0kHH6QfeyovL3UEZoAwxCNsQmxIpCGIq2wHmBoCzkGoG-xdx6mBdlxLyHQpzugEb8_JzHx72u7lKY8UTSVjkcNh7DRuE6O7favuBBd_rMw&state=9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4" for 127.0.0.1 at 2013-09-30 14:24:33 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"code"=>"AQCidTvhSfeXCxZA1Y55pEA8Y2kcjSVp_GExdkwAyeErbmtZh1qnhrulZfEbQBjGL12nH7-qKDqcnCHLuTa070YKjjeDCKVuMdWmgmV2a77NSYojZ4RSAlp3VZQWT33tEvEzRiPpYqZTL0UfylTkIjCwWGkIDZmeOUHnhO8enuSmeWAU2pSpn7Yo8p6GZuJ9UgL3oxndYjrgwG9CAYgsCYCgC0kHH6QfeyovL3UEZoAwxCNsQmxIpCGIq2wHmBoCzkGoG-xdx6mBdlxLyHQpzugEb8_JzHx72u7lKY8UTSVjkcNh7DRuE6O7favuBBd_rMw", "state"=>"9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4", "provider"=>"facebook"}
+  [1m[35mAuthentication Load (0.0ms)[0m  SELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'facebook' AND `authentications`.`uid` = '100001505143657' LIMIT 1
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Completed 401 Unauthorized in 8ms
+
+
+Started GET "/auth/facebook/callback?code=AQCo_w1XW_NmsQERmBefXIapAj4mUraJeRK35mzOIgj7oNRwt0gkTefwU1wSQ0LwnNFFwHWaFXUu1YiamA6g-Nz3EgBz7Vs3Yb-FzMK1cg6xcY9WSeMx9yo5pH4XgNypw6G1QYVc-x8yXjUvdNWA7ROtTPYPo_kVsxxlxltyfIufyTAtl4SybMlm1qIcvthwPvdzJIuhWd3QUmw4mmJMM-G0LeXpq7LDYRYTdERbp7SPE85vZPCo0DeXS0VxJh4TGF0kkMIMMEBXz0FuPDu2HAhUyoF1cqh4kLBNfNHXTsNqQGT0E486M37ibIuRZYbg2I0&state=9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4" for 127.0.0.1 at 2013-09-30 14:24:35 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"code"=>"AQCo_w1XW_NmsQERmBefXIapAj4mUraJeRK35mzOIgj7oNRwt0gkTefwU1wSQ0LwnNFFwHWaFXUu1YiamA6g-Nz3EgBz7Vs3Yb-FzMK1cg6xcY9WSeMx9yo5pH4XgNypw6G1QYVc-x8yXjUvdNWA7ROtTPYPo_kVsxxlxltyfIufyTAtl4SybMlm1qIcvthwPvdzJIuhWd3QUmw4mmJMM-G0LeXpq7LDYRYTdERbp7SPE85vZPCo0DeXS0VxJh4TGF0kkMIMMEBXz0FuPDu2HAhUyoF1cqh4kLBNfNHXTsNqQGT0E486M37ibIuRZYbg2I0", "state"=>"9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4", "provider"=>"facebook"}
+  [1m[35mAuthentication Load (1.0ms)[0m  SELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'facebook' AND `authentications`.`uid` = '100001505143657' LIMIT 1
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Completed 401 Unauthorized in 7ms
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2013-09-30 14:24:37 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 26ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:37 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:37 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:37 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:37 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:37 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:38 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:39 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:39 +0530
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (0.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 51ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:49 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:24:50 +0530
+
+
+Started GET "/users/confirmation?confirmation_token=HJqdfjfHqMZ2heD5u3xG" for 127.0.0.1 at 2013-09-30 14:25:33 +0530
+Processing by Devise::ConfirmationsController#show as HTML
+  Parameters: {"confirmation_token"=>"HJqdfjfHqMZ2heD5u3xG"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = 'HJqdfjfHqMZ2heD5u3xG' LIMIT 1
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (2.0ms)[0m  UPDATE `users` SET `confirmation_token` = ?, `confirmed_at` = ?, `updated_at` = ? WHERE `users`.`id` = 1  [["confirmation_token", nil], ["confirmed_at", Mon, 30 Sep 2013 08:55:33 UTC +00:00], ["updated_at", Mon, 30 Sep 2013 08:55:33 UTC +00:00]]
+  [1m[36m (56.5ms)[0m  [1mCOMMIT[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mSQL (2.0ms)[0m  [1mUPDATE `users` SET `last_sign_in_at` = ?, `current_sign_in_at` = ?, `last_sign_in_ip` = ?, `current_sign_in_ip` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 1[0m  [["last_sign_in_at", Mon, 30 Sep 2013 08:55:33 UTC +00:00], ["current_sign_in_at", Mon, 30 Sep 2013 08:55:33 UTC +00:00], ["last_sign_in_ip", "127.0.0.1"], ["current_sign_in_ip", "127.0.0.1"], ["sign_in_count", 1], ["updated_at", Mon, 30 Sep 2013 08:55:33 UTC +00:00]]
+  [1m[35m (50.5ms)[0m  COMMIT
+Redirected to http://localhost:3000/auth/facebook/callback?code=AQCo_w1XW_NmsQERmBefXIapAj4mUraJeRK35mzOIgj7oNRwt0gkTefwU1wSQ0LwnNFFwHWaFXUu1YiamA6g-Nz3EgBz7Vs3Yb-FzMK1cg6xcY9WSeMx9yo5pH4XgNypw6G1QYVc-x8yXjUvdNWA7ROtTPYPo_kVsxxlxltyfIufyTAtl4SybMlm1qIcvthwPvdzJIuhWd3QUmw4mmJMM-G0LeXpq7LDYRYTdERbp7SPE85vZPCo0DeXS0VxJh4TGF0kkMIMMEBXz0FuPDu2HAhUyoF1cqh4kLBNfNHXTsNqQGT0E486M37ibIuRZYbg2I0&state=9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4
+Completed 302 Found in 122ms (ActiveRecord: 112.0ms)
+
+
+Started GET "/auth/facebook/callback?code=AQCo_w1XW_NmsQERmBefXIapAj4mUraJeRK35mzOIgj7oNRwt0gkTefwU1wSQ0LwnNFFwHWaFXUu1YiamA6g-Nz3EgBz7Vs3Yb-FzMK1cg6xcY9WSeMx9yo5pH4XgNypw6G1QYVc-x8yXjUvdNWA7ROtTPYPo_kVsxxlxltyfIufyTAtl4SybMlm1qIcvthwPvdzJIuhWd3QUmw4mmJMM-G0LeXpq7LDYRYTdERbp7SPE85vZPCo0DeXS0VxJh4TGF0kkMIMMEBXz0FuPDu2HAhUyoF1cqh4kLBNfNHXTsNqQGT0E486M37ibIuRZYbg2I0&state=9f21d81917ad5c4ebfef5d2e217c05c18ae2fc9b8a9aacc4" for 127.0.0.1 at 2013-09-30 14:25:33 +0530
+
+OmniAuth::Strategies::OAuth2::CallbackError (OmniAuth::Strategies::OAuth2::CallbackError):
+  omniauth-oauth2 (1.1.1) lib/omniauth/strategies/oauth2.rb:71:in `callback_phase'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:226:in `callback_call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:182:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/builder.rb:49:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `catch'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.0) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:373:in `_run__212011992__call__callbacks'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.0ms)
+
+
+Started GET "/users/confirmation?confirmation_token=HJqdfjfHqMZ2heD5u3xG" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+Processing by Devise::ConfirmationsController#show as HTML
+  Parameters: {"confirmation_token"=>"HJqdfjfHqMZ2heD5u3xG"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = 'HJqdfjfHqMZ2heD5u3xG' LIMIT 1[0m
+  Rendered devise/shared/_links.erb (1.0ms)
+  Rendered devise/confirmations/new.html.erb within layouts/application (7.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mProfile Load (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 39ms (Views: 34.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:52 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:26:53 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:26:54 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:27:26 +0530
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mGame Load (0.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[35mProfile Load (1.0ms)[0m  SELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 27ms (Views: 23.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:27:26 +0530
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"ESt4kocFeSzBn1fkoTsrZKQgNW1eWYXturytSyloRPQ="}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 6ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 24ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:29 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:30 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:31 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:31 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:27:34 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:27:35 +0530
+
+
+Started GET "/auth/google_oauth2/callback?state=66e03f5296099b78be02d3285314baf8b6c2c2153e703437&code=4/nTQeQTxARSXeEJ5ffDTB2RdolY3b.whR5RP2TFEAaXE-sT2ZLcbR1VjDcggI" for 127.0.0.1 at 2013-09-30 14:27:39 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"state"=>"66e03f5296099b78be02d3285314baf8b6c2c2153e703437", "code"=>"4/nTQeQTxARSXeEJ5ffDTB2RdolY3b.whR5RP2TFEAaXE-sT2ZLcbR1VjDcggI", "provider"=>"google_oauth2"}
+  [1m[35mAuthentication Load (1.0ms)[0m  SELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'google_oauth2' AND `authentications`.`uid` = '102893962018969047914' LIMIT 1
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`email` = 'kundanw1990@gmail.com' LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO `authentications` (`created_at`, `provider`, `token`, `uid`, `updated_at`, `user_id`) VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 30 Sep 2013 08:57:41 UTC +00:00], ["provider", "google_oauth2"], ["token", "ya29.AHES6ZTJ9j95tyU_6tEEi55XAtL_dEnA87Ue6ymplfLur7ek_5rCtw"], ["uid", "102893962018969047914"], ["updated_at", Mon, 30 Sep 2013 08:57:41 UTC +00:00], ["user_id", 1]]
+  [1m[35m (267.6ms)[0m  COMMIT
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (2.0ms)[0m  UPDATE `users` SET `current_sign_in_at` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 1  [["current_sign_in_at", Mon, 30 Sep 2013 08:57:41 UTC +00:00], ["sign_in_count", 2], ["updated_at", Mon, 30 Sep 2013 08:57:41 UTC +00:00]]
+  [1m[36m (28.0ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 312ms (ActiveRecord: 300.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:27:41 +0530
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mGame Load (1.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[35mProfile Load (0.0ms)[0m  SELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 29ms (Views: 25.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:42 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:27:43 +0530
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2013-09-30 14:28:01 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"ESt4kocFeSzBn1fkoTsrZKQgNW1eWYXturytSyloRPQ="}
+Can't verify CSRF token authenticity
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Completed 422 Unprocessable Entity in 8ms
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  actionpack (4.0.0) lib/action_controller/metal/request_forgery_protection.rb:163:in `handle_unverified_request'
+  actionpack (4.0.0) lib/action_controller/metal/request_forgery_protection.rb:170:in `handle_unverified_request'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/bundler/gems/devise-49aebde435cf/lib/devise/controllers/helpers.rb:278:in `handle_unverified_request'
+  actionpack (4.0.0) lib/action_controller/metal/request_forgery_protection.rb:177:in `verify_authenticity_token'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:417:in `_run__124773491__process_action__callbacks'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.0) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.0) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.0) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.0) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.0) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.0) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.0) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.0) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.0) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.0) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.0) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.0) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.0) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.0) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.0) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.0) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.0) lib/action_dispatch/routing/mapper.rb:44:in `call'
+  actionpack (4.0.0) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.0) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.0) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.0) lib/action_dispatch/routing/route_set.rb:655:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/builder.rb:49:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `catch'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.0) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:373:in `_run__212011992__call__callbacks'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (39.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:28:23 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:28:26 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:28:26 +0530
+
+
+Started GET "/auth/google_oauth2/callback?state=faa24a1e2145692af485cb440c25b29d99dacf8474a3f957&code=4/nUOcuHtKQvdvW0PX7i8S3_t2Jbgq.wlNjH3GVuxQWXE-sT2ZLcbSRzjHcggI" for 127.0.0.1 at 2013-09-30 14:28:28 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"state"=>"faa24a1e2145692af485cb440c25b29d99dacf8474a3f957", "code"=>"4/nUOcuHtKQvdvW0PX7i8S3_t2Jbgq.wlNjH3GVuxQWXE-sT2ZLcbSRzjHcggI", "provider"=>"google_oauth2"}
+  [1m[35mAuthentication Load (0.0ms)[0m  SELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'google_oauth2' AND `authentications`.`uid` = '102893962018969047914' LIMIT 1
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mSQL (2.0ms)[0m  [1mUPDATE `users` SET `last_sign_in_at` = ?, `current_sign_in_at` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 1[0m  [["last_sign_in_at", Mon, 30 Sep 2013 08:57:41 UTC +00:00], ["current_sign_in_at", Mon, 30 Sep 2013 08:58:29 UTC +00:00], ["sign_in_count", 3], ["updated_at", Mon, 30 Sep 2013 08:58:29 UTC +00:00]]
+  [1m[35m (38.0ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 78ms (ActiveRecord: 41.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mGame Load (1.0ms)[0m  SELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[36mProfile Load (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 32.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:28:29 +0530
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"l16Scpp+FSgLfzx80Eu60fK2WsLUT1Izn8qS1K9lxQ8="}
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:28:32 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:28:34 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:28:34 +0530
+
+
+Started GET "/auth/google_oauth2/callback?state=eab93b6cd715ec0982924bf866fdba048c58a344f9d16366&code=4/YBf4DHX4BmNraJohLlhYMaaSFcQp.4rWSYCWdRA0RXE-sT2ZLcbQxAjLcggI" for 127.0.0.1 at 2013-09-30 14:28:34 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"state"=>"eab93b6cd715ec0982924bf866fdba048c58a344f9d16366", "code"=>"4/YBf4DHX4BmNraJohLlhYMaaSFcQp.4rWSYCWdRA0RXE-sT2ZLcbQxAjLcggI", "provider"=>"google_oauth2"}
+  [1m[36mAuthentication Load (0.0ms)[0m  [1mSELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'google_oauth2' AND `authentications`.`uid` = '102893962018969047914' LIMIT 1[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1  [["id", 1]]
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (2.0ms)[0m  UPDATE `users` SET `last_sign_in_at` = ?, `current_sign_in_at` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 1  [["last_sign_in_at", Mon, 30 Sep 2013 08:58:29 UTC +00:00], ["current_sign_in_at", Mon, 30 Sep 2013 08:58:35 UTC +00:00], ["sign_in_count", 4], ["updated_at", Mon, 30 Sep 2013 08:58:35 UTC +00:00]]
+  [1m[36m (29.0ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 40ms (ActiveRecord: 32.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mGame Load (1.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  [1m[35mProfile Load (1.0ms)[0m  SELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 16.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:35 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:36 +0530
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"f0kXN9Mj1TkeSUWW6cnzLPSV8PAlEx6oxbRJRQH+aIE="}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:38 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:57 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:28:58 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 38ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:28:59 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:29:00 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:29:02 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:29:02 +0530
+
+
+Started GET "/auth/google_oauth2/callback?state=6ed48d1da4123b5b1efc34f4f31e8ba8356efc94747715c6&code=4/CP1ykaY5t0Q1hlSntkNtT_UGdqV7.AjnMhLXzDAQeXE-sT2ZLcbTx4DLcggI" for 127.0.0.1 at 2013-09-30 14:29:03 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"state"=>"6ed48d1da4123b5b1efc34f4f31e8ba8356efc94747715c6", "code"=>"4/CP1ykaY5t0Q1hlSntkNtT_UGdqV7.AjnMhLXzDAQeXE-sT2ZLcbTx4DLcggI", "provider"=>"google_oauth2"}
+  [1m[35mAuthentication Load (0.0ms)[0m  SELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'google_oauth2' AND `authentications`.`uid` = '102893962018969047914' LIMIT 1
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mSQL (1.0ms)[0m  [1mUPDATE `users` SET `last_sign_in_at` = ?, `current_sign_in_at` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 1[0m  [["last_sign_in_at", Mon, 30 Sep 2013 08:58:35 UTC +00:00], ["current_sign_in_at", Mon, 30 Sep 2013 08:59:04 UTC +00:00], ["sign_in_count", 5], ["updated_at", Mon, 30 Sep 2013 08:59:04 UTC +00:00]]
+  [1m[35m (33.1ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 77ms (ActiveRecord: 34.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mGame Load (0.0ms)[0m  SELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[36mProfile Load (1.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 17.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:29:04 +0530
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"YGqZCs2vDwsSYsTRmJSIwbQE9VOk6Bt7ECkhK+oyV+Y="}
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 5ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 19.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:07 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:29:14 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:29:16 +0530
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2013-09-30 14:29:16 +0530
+
+
+Started GET "/auth/google_oauth2/callback?state=58b322471794647b61acdf08038de386b18cbb3b5f79d97f&code=4/l3t_8o3HY5My1G6H-h3qqUxgtNJS.YjbA_OksL5oZXE-sT2ZLcbQhxzPcggI" for 127.0.0.1 at 2013-09-30 14:29:32 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"state"=>"58b322471794647b61acdf08038de386b18cbb3b5f79d97f", "code"=>"4/l3t_8o3HY5My1G6H-h3qqUxgtNJS.YjbA_OksL5oZXE-sT2ZLcbQhxzPcggI", "provider"=>"google_oauth2"}
+  [1m[36mAuthentication Load (1.0ms)[0m  [1mSELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'google_oauth2' AND `authentications`.`uid` = '101701320820519030487' LIMIT 1[0m
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`email` = 'rkn047@gmail.com' LIMIT 1
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = '6tZLxrYqMvKgirYEQbpQ' LIMIT 1
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO `users` (`confirmation_sent_at`, `confirmation_token`, `created_at`, `email`, `updated_at`) VALUES (?, ?, ?, ?, ?)[0m  [["confirmation_sent_at", Mon, 30 Sep 2013 08:59:34 UTC +00:00], ["confirmation_token", "6tZLxrYqMvKgirYEQbpQ"], ["created_at", Mon, 30 Sep 2013 08:59:34 UTC +00:00], ["email", "rkn047@gmail.com"], ["updated_at", Mon, 30 Sep 2013 08:59:34 UTC +00:00]]
+  Rendered devise/mailer/confirmation_instructions.html.erb (1.0ms)
+
+Sent mail to rkn047@gmail.com (5575.6ms)
+Date: Mon, 30 Sep 2013 14:29:34 +0530
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: rkn047@gmail.com
+Message-ID: <52493d76455ec_16282fdc258579d5@iternia25.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome rkn047@gmail.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://localhost:3000/users/confirmation?confirmation_token=6tZLxrYqMvKgirYEQbpQ">Confirm my account</a></p>
+
+  [1m[35mSQL (3.0ms)[0m  INSERT INTO `profiles` (`created_at`, `gender`, `updated_at`, `user_id`) VALUES (?, ?, ?, ?)  [["created_at", Mon, 30 Sep 2013 08:59:39 UTC +00:00], ["gender", "male"], ["updated_at", Mon, 30 Sep 2013 08:59:39 UTC +00:00], ["user_id", 2]]
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO `authentications` (`created_at`, `provider`, `token`, `uid`, `updated_at`, `user_id`) VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Mon, 30 Sep 2013 08:59:39 UTC +00:00], ["provider", "google_oauth2"], ["token", "ya29.AHES6ZS9QBN5mcyYNuNWi1gAHwDRUufpBm6jlKQ76sKrCA"], ["uid", "101701320820519030487"], ["updated_at", Mon, 30 Sep 2013 08:59:39 UTC +00:00], ["user_id", 2]]
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO `games` (`created_at`, `lose`, `played`, `updated_at`, `user_id`, `win`) VALUES (?, ?, ?, ?, ?, ?)  [["created_at", Mon, 30 Sep 2013 08:59:39 UTC +00:00], ["lose", 0], ["played", 0], ["updated_at", Mon, 30 Sep 2013 08:59:39 UTC +00:00], ["user_id", 2], ["win", 0]]
+  [1m[36mGame Load (1.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 2]]
+  [1m[35m (22.0ms)[0m  COMMIT
+  [1m[36mSQL (1.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  COMMIT
+Completed 401 Unauthorized in 5645ms
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2013-09-30 14:29:39 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (23.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (28.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 54ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:39 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:39 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:29:40 +0530
+
+
+Started GET "/users/confirmation?confirmation_token=6tZLxrYqMvKgirYEQbpQ" for 127.0.0.1 at 2013-09-30 14:29:46 +0530
+Processing by Devise::ConfirmationsController#show as HTML
+  Parameters: {"confirmation_token"=>"6tZLxrYqMvKgirYEQbpQ"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = '6tZLxrYqMvKgirYEQbpQ' LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mSQL (1.0ms)[0m  [1mUPDATE `users` SET `confirmation_token` = ?, `confirmed_at` = ?, `updated_at` = ? WHERE `users`.`id` = 2[0m  [["confirmation_token", nil], ["confirmed_at", Mon, 30 Sep 2013 08:59:46 UTC +00:00], ["updated_at", Mon, 30 Sep 2013 08:59:46 UTC +00:00]]
+  [1m[35m (53.0ms)[0m  COMMIT
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.0ms)[0m  UPDATE `users` SET `last_sign_in_at` = ?, `current_sign_in_at` = ?, `last_sign_in_ip` = ?, `current_sign_in_ip` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 2  [["last_sign_in_at", Mon, 30 Sep 2013 08:59:47 UTC +00:00], ["current_sign_in_at", Mon, 30 Sep 2013 08:59:47 UTC +00:00], ["last_sign_in_ip", "127.0.0.1"], ["current_sign_in_ip", "127.0.0.1"], ["sign_in_count", 1], ["updated_at", Mon, 30 Sep 2013 08:59:47 UTC +00:00]]
+  [1m[36m (30.7ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/auth/google_oauth2/callback?state=58b322471794647b61acdf08038de386b18cbb3b5f79d97f&code=4/l3t_8o3HY5My1G6H-h3qqUxgtNJS.YjbA_OksL5oZXE-sT2ZLcbQhxzPcggI
+Completed 302 Found in 91ms (ActiveRecord: 85.7ms)
+
+
+Started GET "/auth/google_oauth2/callback?state=58b322471794647b61acdf08038de386b18cbb3b5f79d97f&code=4/l3t_8o3HY5My1G6H-h3qqUxgtNJS.YjbA_OksL5oZXE-sT2ZLcbQhxzPcggI" for 127.0.0.1 at 2013-09-30 14:29:47 +0530
+
+OmniAuth::Strategies::OAuth2::CallbackError (OmniAuth::Strategies::OAuth2::CallbackError):
+  omniauth-oauth2 (1.1.1) lib/omniauth/strategies/oauth2.rb:71:in `callback_phase'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:226:in `callback_call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:182:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:184:in `call!'
+  omniauth (1.1.4) lib/omniauth/strategy.rb:164:in `call'
+  omniauth (1.1.4) lib/omniauth/builder.rb:49:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `catch'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.0) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:373:in `_run__212011992__call__callbacks'
+  activesupport (4.0.0) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mGame Load (0.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  [1m[35mProfile Load (0.0ms)[0m  SELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 20.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:15 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:33:16 +0530
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2013-09-30 14:33:27 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"4m7fJ2u6+eQbPxrTjs+FcPmmKTDh6q+iOn9X6lKAkc0="}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 8ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:28 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:29 +0530
+
+
+Started GET "/assets/32pixel-icons-2.png" for 127.0.0.1 at 2013-09-30 14:33:30 +0530
+
+
+Started GET "/auth/facebook/" for 127.0.0.1 at 2013-09-30 14:33:32 +0530
+
+
+Started GET "/auth/facebook/" for 127.0.0.1 at 2013-09-30 14:33:33 +0530
+
+
+Started GET "/auth/facebook/callback?code=AQC6RPe7jiicHPTQoy3-F5n3x7vehbEfe45l6ZXqtL5qW1Kx1s8qUHJJtJpgWk5g_To-99RB1XoFrExXme7lVbvK0sUgSGP0zlWmGVthHw0JXgT6OTFEWTxJeHHbA6rS0B8iJFrZWrBHAyXazQyjbJbzvT4JYNibTpV6C48XKXE3JviS5F0eYRsJoT02zyxH7BqPLAjpDFK0qYghFTw8utk7lCun3UWRH3Vdhv4wmwf7rG_o-NUgP4bpCjibS-DHjvgqxigyvQDO6SMFlPIn42bK38ndmeDDBDM6bptaACIWHYeEfiBma4oMWJWTHKix2V4&state=4a4e3b60ea7f6939b7434b8194ca9b1041ef4b933d1811b0" for 127.0.0.1 at 2013-09-30 14:33:33 +0530
+Processing by AuthenticationsController#create as HTML
+  Parameters: {"code"=>"AQC6RPe7jiicHPTQoy3-F5n3x7vehbEfe45l6ZXqtL5qW1Kx1s8qUHJJtJpgWk5g_To-99RB1XoFrExXme7lVbvK0sUgSGP0zlWmGVthHw0JXgT6OTFEWTxJeHHbA6rS0B8iJFrZWrBHAyXazQyjbJbzvT4JYNibTpV6C48XKXE3JviS5F0eYRsJoT02zyxH7BqPLAjpDFK0qYghFTw8utk7lCun3UWRH3Vdhv4wmwf7rG_o-NUgP4bpCjibS-DHjvgqxigyvQDO6SMFlPIn42bK38ndmeDDBDM6bptaACIWHYeEfiBma4oMWJWTHKix2V4", "state"=>"4a4e3b60ea7f6939b7434b8194ca9b1041ef4b933d1811b0", "provider"=>"facebook"}
+  [1m[35mAuthentication Load (1.0ms)[0m  SELECT `authentications`.* FROM `authentications` WHERE `authentications`.`provider` = 'facebook' AND `authentications`.`uid` = '100001505143657' LIMIT 1
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = ? ORDER BY `users`.`id` ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mSQL (2.0ms)[0m  [1mUPDATE `users` SET `last_sign_in_at` = ?, `current_sign_in_at` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 1[0m  [["last_sign_in_at", Mon, 30 Sep 2013 08:59:04 UTC +00:00], ["current_sign_in_at", Mon, 30 Sep 2013 09:03:35 UTC +00:00], ["sign_in_count", 6], ["updated_at", Mon, 30 Sep 2013 09:03:35 UTC +00:00]]
+  [1m[35m (36.2ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 47ms (ActiveRecord: 40.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:33:35 +0530
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mGame Load (1.0ms)[0m  SELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1  [["user_id", 1]]
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[36mProfile Load (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 1]]
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 52ms (Views: 48.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:35 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:36 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:37 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:37 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:37 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:37 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:37 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:37 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:33:37 +0530
+
+
+Started GET "/assets/thumb/missing.png" for 127.0.0.1 at 2013-09-30 14:33:37 +0530
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"TUcO6DgTwezs+sEW+hby6ZbkedD6ciijQol0EQg6Xm0="}
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 1 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mSQL (1.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 9ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:01 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 14:34:02 +0530
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2013-09-30 15:16:06 +0530
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (7.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 33ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UHPSeIFv0xnaag6f+5Kj8xb5yFs/BB3XPGh6qfw61yc=", "user"=>{"email"=>"kundan@iternia.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Sign in"}
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`email` = 'kundan@iternia.com' LIMIT 1[0m
+Completed 401 Unauthorized in 3ms
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UHPSeIFv0xnaag6f+5Kj8xb5yFs/BB3XPGh6qfw61yc=", "user"=>{"email"=>"kundan@iternia.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Sign in"}
+  Rendered devise/shared/_links.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 91ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:14 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:15 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:20 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 15:16:21 +0530
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2013-09-30 15:16:29 +0530
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (14.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 55ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2013-09-30 15:17:02 +0530
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UHPSeIFv0xnaag6f+5Kj8xb5yFs/BB3XPGh6qfw61yc=", "user"=>{"email"=>"kundan@iternia.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "profile_attributes"=>{"first_name"=>"kundan", "last_name"=>"waingankar", "gender"=>"male", "avatar"=>#<ActionDispatch::Http::UploadedFile:0x5e48260 @tempfile=#<File:C:/Users/ITERNI~1/AppData/Local/Temp/RackMultipart20130930-5672-swtgkp>, @original_filename="IMG_0002.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"user[profile_attributes][avatar]\"; filename=\"IMG_0002.jpg\"\r\nContent-Type: image/jpeg\r\n">}}, "commit"=>"Sign up"}
+Command :: identify -format '%wx%h,%[exif:orientation]' "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]"
+Command :: convert "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]" -auto-orient -resize "300x300>" "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw20130930-5672-1s81tax"
+Command :: file -b --mime "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw20130930-5672-1s81tax"
+[paperclip] Error while determining content type: Cocaine::CommandNotFoundError
+Command :: identify -format '%wx%h,%[exif:orientation]' "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]"
+Command :: identify -format %m "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]"
+Command :: convert "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw.jpg[0]" -auto-orient -resize "100x100>" "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw20130930-5672-1u56kmq"
+Command :: file -b --mime "C:/Users/ITERNI~1/AppData/Local/Temp/IMG_000220130930-5672-8wwtbw20130930-5672-1u56kmq"
+[paperclip] Error while determining content type: Cocaine::CommandNotFoundError
+  [1m[35mSQL (0.0ms)[0m  BEGIN
+  [1m[36mUser Exists (0.0ms)[0m  [1mSELECT 1 AS one FROM `users` WHERE `users`.`email` = BINARY 'kundan@iternia.com' LIMIT 1[0m
+  [1m[35mUser Exists (0.0ms)[0m  SELECT 1 AS one FROM `users` WHERE `users`.`email` = 'kundan@iternia.com' LIMIT 1
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = 'ryvse62bAzqoF91ycPRM' LIMIT 1[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO `users` (`confirmation_sent_at`, `confirmation_token`, `created_at`, `email`, `encrypted_password`, `updated_at`) VALUES (?, ?, ?, ?, ?, ?)  [["confirmation_sent_at", Mon, 30 Sep 2013 09:47:05 UTC +00:00], ["confirmation_token", "ryvse62bAzqoF91ycPRM"], ["created_at", Mon, 30 Sep 2013 09:47:05 UTC +00:00], ["email", "kundan@iternia.com"], ["encrypted_password", "$2a$10$k6WI7kXZFZAj868jUVUate.O8fKW4I7a3J7MZYxjjJr4IfoRdcXeK"], ["updated_at", Mon, 30 Sep 2013 09:47:05 UTC +00:00]]
+  Rendered devise/mailer/confirmation_instructions.html.erb (0.0ms)
+
+Sent mail to kundan@iternia.com (5610.5ms)
+Date: Mon, 30 Sep 2013 15:17:05 +0530
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: kundan@iternia.com
+Message-ID: <5249489945e77_16281938eac5806d@iternia25.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome kundan@iternia.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://localhost:3000/users/confirmation?confirmation_token=ryvse62bAzqoF91ycPRM">Confirm my account</a></p>
+
+  [1m[36mSQL (2.0ms)[0m  [1mINSERT INTO `profiles` (`avatar_content_type`, `avatar_file_name`, `avatar_file_size`, `avatar_updated_at`, `created_at`, `first_name`, `gender`, `last_name`, `updated_at`, `user_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["avatar_content_type", "image/jpeg"], ["avatar_file_name", "IMG_0002.jpg"], ["avatar_file_size", 2083266], ["avatar_updated_at", Mon, 30 Sep 2013 09:47:02 UTC +00:00], ["created_at", Mon, 30 Sep 2013 09:47:10 UTC +00:00], ["first_name", "kundan"], ["gender", "male"], ["last_name", "waingankar"], ["updated_at", Mon, 30 Sep 2013 09:47:10 UTC +00:00], ["user_id", 3]]
+  [1m[35mSQL (14.0ms)[0m  INSERT INTO `games` (`created_at`, `lose`, `played`, `updated_at`, `user_id`, `win`) VALUES (?, ?, ?, ?, ?, ?)  [["created_at", Mon, 30 Sep 2013 09:47:11 UTC +00:00], ["lose", 0], ["played", 0], ["updated_at", Mon, 30 Sep 2013 09:47:11 UTC +00:00], ["user_id", 3], ["win", 0]]
+  [1m[36mGame Load (1.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 3]]
+  [1m[35m (17.3ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 8738ms (ActiveRecord: 36.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 22ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:11 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 15:17:12 +0530
+
+
+Started GET "/users/confirmation?confirmation_token=ryvse62bAzqoF91ycPRM" for 127.0.0.1 at 2013-09-30 15:18:00 +0530
+Processing by Devise::ConfirmationsController#show as HTML
+  Parameters: {"confirmation_token"=>"ryvse62bAzqoF91ycPRM"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`confirmation_token` = 'ryvse62bAzqoF91ycPRM' LIMIT 1[0m
+  [1m[35mSQL (1.0ms)[0m  BEGIN
+  [1m[36mSQL (2.0ms)[0m  [1mUPDATE `users` SET `confirmation_token` = ?, `confirmed_at` = ?, `updated_at` = ? WHERE `users`.`id` = 3[0m  [["confirmation_token", nil], ["confirmed_at", Mon, 30 Sep 2013 09:48:00 UTC +00:00], ["updated_at", Mon, 30 Sep 2013 09:48:00 UTC +00:00]]
+  [1m[35m (60.2ms)[0m  COMMIT
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (2.0ms)[0m  UPDATE `users` SET `last_sign_in_at` = ?, `current_sign_in_at` = ?, `last_sign_in_ip` = ?, `current_sign_in_ip` = ?, `sign_in_count` = ?, `updated_at` = ? WHERE `users`.`id` = 3  [["last_sign_in_at", Mon, 30 Sep 2013 09:48:01 UTC +00:00], ["current_sign_in_at", Mon, 30 Sep 2013 09:48:01 UTC +00:00], ["last_sign_in_ip", "127.0.0.1"], ["current_sign_in_ip", "127.0.0.1"], ["sign_in_count", 1], ["updated_at", Mon, 30 Sep 2013 09:48:01 UTC +00:00]]
+  [1m[36m (49.5ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 125ms (ActiveRecord: 115.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 3 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mGame Load (0.0ms)[0m  [1mSELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1[0m  [["user_id", 3]]
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  [1m[35mProfile Load (0.0ms)[0m  SELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1  [["user_id", 3]]
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 67ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/games.css?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/authentications.css?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:01 +0530
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/script.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/authentications.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/games.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-30 15:18:02 +0530
+
+
+Started GET "/newgame" for 127.0.0.1 at 2013-09-30 15:18:07 +0530
+Processing by GamesController#new_game as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT `users`.* FROM `users` WHERE `users`.`id` = 3 ORDER BY `users`.`id` ASC LIMIT 1[0m
+  [1m[35mGame Load (0.0ms)[0m  SELECT `games`.* FROM `games` WHERE `games`.`user_id` = ? ORDER BY `games`.`id` ASC LIMIT 1  [["user_id", 3]]
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.0ms)[0m  UPDATE `games` SET `played` = ?, `updated_at` = ? WHERE `games`.`id` = 3  [["played", 1], ["updated_at", Mon, 30 Sep 2013 09:48:07 UTC +00:00]]
+  [1m[36m (30.5ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/game
+Completed 302 Found in 79ms (ActiveRecord: 32.5ms)
+
+
+Started GET "/game" for 127.0.0.1 at 2013-09-30 15:18:07 +0530
+Processing by GamesController#new as HTML
+  Rendered games/new.html.erb within layouts/application (1.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT `users`.* FROM `users` WHERE `users`.`id` = 3 ORDER BY `users`.`id` ASC LIMIT 1
+  [1m[36mProfile Load (0.0ms)[0m  [1mSELECT `profiles`.* FROM `profiles` WHERE `profiles`.`user_id` = ? ORDER BY `profiles`.`id` ASC LIMIT 1[0m  [["user_id", 3]]
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_errors.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/hangman-0.gif" for 127.0.0.1 at 2013-09-30 15:18:07 +0530
