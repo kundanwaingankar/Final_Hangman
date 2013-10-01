@@ -1,0 +1,44 @@
+%h2#homeHeading.text-center Welcome To Hangman Game
+- unless user_signed_in?
+  .clearfix
+    .userAction.span4.offset3
+      %ul.clearfix
+        %li= link_to 'Sign up', new_user_registration_path, class:"btn-large btn btn-success"
+        %li= link_to 'Sign in', new_user_session_path, class:"btn-large btn"
+        %li
+          %h4 Sign In with
+        %li
+          %ul.clearfix
+            %li
+              = link_to href:'/auth/facebook/' do
+                %i.icon32-facebook
+            %li
+              = link_to href:'/auth/github' do
+                %i.icon32-github
+            %li
+              = link_to href:'/auth/twitter' do
+                %i.icon32-twitter
+            %li
+              = link_to href:'/auth/linkedin' do
+                %i.icon32-linkedin
+            %li
+              = link_to href:'/auth/google_oauth2' do
+                %i.icon32-google
+- if user_signed_in?
+  .row-fluid
+    .span6
+      = link_to 'Play Game', newgame_path, class:"btn btn-large btn-primary"
+    .span6
+      %form.form-horizontal
+        .control-group
+          %label.control-label{for: "played"} Games Played
+          .controls
+            %input#disabledInput.input-xlarge{placeholder: "Games Played", type: "text", value: @game.played, disabled: @game.played}
+        .control-group
+          %label.control-label{for: "win"} Games Won
+          .controls
+            %input#disabledInput.input-xlarge{placeholder: "Games Won", type: "text", value: @game.win, disabled: @game.win}
+        .control-group
+          %label.control-label{for: "lose"} Games lost
+          .controls
+            %input#disabledInput.input-xlarge{placeholder: "Games Lost", type: "text", value: @game.lose, disabled: @game.played}

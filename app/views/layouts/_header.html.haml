@@ -1,0 +1,18 @@
+%header
+  .container.clearfix
+    .row
+      .span4
+        .logoWrap
+          = link_to 'HangMan Game', root_path, class: "logo"
+      .span8.pull-right
+        - if user_signed_in?
+          .headerLinks
+            %ul.clearfix
+              %li= image_tag current_user.profile.avatar.url(:thumb) ,width: 50,height: 50
+              %li.dropdown
+                %a.dropdown-toggle{"data-toggle" => "dropdown", href: "#"}
+                  = current_user.email
+                  %b.caret
+                %ul.dropdown-menu.pull-right
+                  %li= link_to 'My info', edit_user_registration_path
+                  %li= link_to 'Sign out', destroy_user_session_path, method: :delete

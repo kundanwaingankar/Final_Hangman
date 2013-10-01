@@ -1,0 +1,58 @@
+#game.row-fluid
+  .span8.text-center
+    .imgWrap
+      = image_tag "hangman-#{@game.missed_counter}.gif",width: 250, height: 300
+    %p.hangman-word
+      - @game.word_placeholder.each do |u|
+        = u
+    - if @game.missed_counter < 6 && @game.counter != @game.word.length
+      %p.center.explanation.guessWord Guess the word
+      %form{:action => "/game/user_input", :method => "get"}
+        .center
+          %input.button.character.charA{:name => "character", :type => "submit", :value => "A"}/
+          %input.button.character.charB{:name => "character", :type => "submit", :value => "B"}/
+          %input.button.character.charC{:name => "character", :type => "submit", :value => "C"}/
+          %input.button.character.charD{:name => "character", :type => "submit", :value => "D"}/
+          %input.button.character.charE{:name => "character", :type => "submit", :value => "E"}/
+          %input.button.character.charF{:name => "character", :type => "submit", :value => "F"}/
+          %input.button.character.charG{:name => "character", :type => "submit", :value => "G"}/
+          %input.button.character.charH{:name => "character", :type => "submit", :value => "H"}/
+          %input.button.character.charI{:name => "character", :type => "submit", :value => "I"}/
+          %br/
+          %input.button.character.charJ{:name => "character", :type => "submit", :value => "J"}/
+          %input.button.character.charK{:name => "character", :type => "submit", :value => "K"}/
+          %input.button.character.charL{:name => "character", :type => "submit", :value => "L"}/
+          %input.button.character.charM{:name => "character", :type => "submit", :value => "M"}/
+          %input.button.character.charN{:name => "character", :type => "submit", :value => "N"}/
+          %input.button.character.charO{:name => "character", :type => "submit", :value => "O"}/
+          %input.button.character.charP{:name => "character", :type => "submit", :value => "P"}/
+          %input.button.character.charQ{:name => "character", :type => "submit", :value => "Q"}/
+          %input.button.character.charR{:name => "character", :type => "submit", :value => "R"}/
+          %br/
+          %input.button.character.charS{:name => "character", :type => "submit", :value => "S"}/
+          %input.button.character.charT{:name => "character", :type => "submit", :value => "T"}/
+          %input.button.character.charU{:name => "character", :type => "submit", :value => "U"}/
+          %input.button.character.charV{:name => "character", :type => "submit", :value => "V"}/
+          %input.button.character.charW{:name => "character", :type => "submit", :value => "W"}/
+          %input.button.character.charX{:name => "character", :type => "submit", :value => "X"}/
+          %input.button.character.charY{:name => "character", :type => "submit", :value => "Y"}/
+          %input.button.character.charZ{:name => "character", :type => "submit", :value => "Z"}/
+    - else
+    = link_to 'New Game', newgame_path, class:"btn btn-large btn-primary"
+  #gameStatus.span4
+    %h3 Game Status
+    %p
+      Remaining Chances:- #{6-@game.missed_counter}
+    <h2 class=
+    - if @game.missed_counter == 6
+      "loss"
+    >#{@result}
+    - if @game.missed_counter == 6 || @game.counter == @game.word.length
+      %p.correctWord
+        Correct Word :
+        %b= @result_word
+      .word_definition
+        %p Word Definition :
+        %ul
+= javascript_tag do
+  setAccounts(#{@game.previous_choice.to_json.html_safe});

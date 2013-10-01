@@ -1,0 +1,44 @@
+%h2 Sign up
+- resource.build_profile
+- resource.build_game
+= form_for(resource, :as => resource_name, :url => registration_path(resource_name),html: {class:"form-horizontal",:multipart => true}) do |f|
+  - if(devise_error_messages! !="")
+    .alert.alert-error
+      = devise_error_messages!
+  .control-group
+    = f.label :email, class:"control-label"
+    .controls
+      = f.email_field :email, :autofocus => true, placeholder:"Email"
+  .control-group
+    = f.label :password, class:"control-label"
+    .controls
+      = f.password_field :password, :autofocus => true, placeholder:"Password"
+  .control-group
+    = f.label :password_confirmation, class:"control-label"
+    .controls
+      = f.password_field :password_confirmation, :autofocus => true, placeholder:"Confirm Password"
+  = f.fields_for :profile do |profile_form|
+    .control-group
+      = profile_form.label :first_name, class:"control-label"
+      .controls
+        = profile_form.text_field :first_name, :autofocus => true, placeholder:"First Name"
+    .control-group
+      = profile_form.label :last_name, class:"control-label"
+      .controls
+        = profile_form.text_field :last_name, :autofocus => true, placeholder:"Last Name"
+    .control-group
+      = profile_form.label :gender, class:"control-label"
+      .controls.gender
+        = profile_form.radio_button :gender ,"male",checked: true
+        = profile_form.label :gender_male ,"Male"
+        = profile_form.radio_button :gender ,"female"
+        = profile_form.label :gender_female,"Female"
+    .control-group
+      = profile_form.label :avatar,"Profile Picture", class:"control-label"
+      .controls
+        = profile_form.file_field :avatar
+  .control-group
+    .controls
+      = f.submit "Sign up",class:"btn"
+      .helpLinks
+        = render "devise/shared/links"
