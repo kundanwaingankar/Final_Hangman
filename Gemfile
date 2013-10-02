@@ -4,8 +4,9 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0'
 
 #gem 'wordnik'
-
+gem "erb2haml", :group => :development
 # Use mysql as the database for Active Record
+gem 'haml'
 gem 'mysql'
 gem 'bootstrap-sass'
 gem 'devise', :git => 'git://github.com/plataformatec/devise.git', :ref => '49aebde'
