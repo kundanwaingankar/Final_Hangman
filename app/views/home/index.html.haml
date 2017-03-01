@@ -5,25 +5,7 @@
       %ul.clearfix
         %li= link_to 'Sign up', new_user_registration_path, class:"btn-large btn btn-success"
         %li= link_to 'Sign in', new_user_session_path, class:"btn-large btn"
-        %li
-          %h4 Sign In with
-        %li
-          %ul.clearfix
-            %li
-              = link_to href:'/auth/facebook/' do
-                %i.icon32-facebook
-            %li
-              = link_to href:'/auth/github' do
-                %i.icon32-github
-            %li
-              = link_to href:'/auth/twitter' do
-                %i.icon32-twitter
-            %li
-              = link_to href:'/auth/linkedin' do
-                %i.icon32-linkedin
-            %li
-              = link_to href:'/auth/google_oauth2' do
-                %i.icon32-google
+
 - if user_signed_in?
   .row-fluid
     .span6

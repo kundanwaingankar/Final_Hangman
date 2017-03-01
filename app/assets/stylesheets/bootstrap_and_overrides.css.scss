@@ -13,7 +13,7 @@ $icon32SpritePath: image-path("/assets/32pixel-icons-2.png") !default;
   display: inline-block;
   width: 36px;
   height: 36px;
-  @include ie7-restore-right-whitespace();
+
   line-height: 32px;
   vertical-align: middle;
   background-image: url($icon32SpritePath);

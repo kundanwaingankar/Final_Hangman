@@ -1,15 +1,16 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.0'
+gem 'rails', '4.2.8'
 
 #gem 'wordnik'
 gem "erb2haml", :group => :development
 # Use mysql as the database for Active Record
 gem 'haml'
-gem 'mysql'
+gem 'mysql2'
 gem 'bootstrap-sass'
-gem 'devise', :git => 'git://github.com/plataformatec/devise.git', :ref => '49aebde'
+gem 'devise' #, :git => 'git://github.com/plataformatec/devise.git', :ref => '49aebde'
+gem 'devise-token_authenticatable'
 gem 'certified'
 gem 'omniauth'
 gem 'oauth2'
@@ -19,6 +20,8 @@ gem 'omniauth-twitter'
 gem 'omniauth-linkedin-oauth2'
 gem "omniauth-google-oauth2"
 
+gem 'tzinfo-data'
+#gem 'debugger'
 gem "paperclip", "~> 3.0"
 gem "cocaine"
 #gem 'devise'
@@ -51,7 +54,8 @@ end
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
-  gem 'sdoc', require: false
+  #gem 'sdoc', require: false
+  gem 'sdoc'
 end
 
 # Use ActiveModel has_secure_password
