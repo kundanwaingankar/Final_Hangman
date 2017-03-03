@@ -2,7 +2,7 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 .button.character{
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 .imgWrap{
   margin: 0 auto;
@@ -11,4 +11,21 @@
 }
 .correctWord{
   text-transform: uppercase;
+}
+.btn-success1 {
+  color: white;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+  width: 55px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+
+.btn-primary1 {
+  color: white;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+  width: 150px;
+  font-size: 20px;
 }

@@ -2,9 +2,178 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="808ebff6-dfa9-4399-ad0c-5f962bfb1952" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/hangman1.jpg" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\.idea\dataSources.ids" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\.idea\dataSources.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/hangmanlogo.png" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\05714eb289ce51e3574d789172e16bcc7ed3a436\application.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\05714eb289ce51e3574d789172e16bcc7ed3a436\authentications.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\05714eb289ce51e3574d789172e16bcc7ed3a436\bootstrap_and_overrides.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\05714eb289ce51e3574d789172e16bcc7ed3a436\default_game.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\05714eb289ce51e3574d789172e16bcc7ed3a436\games.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\05714eb289ce51e3574d789172e16bcc7ed3a436\home.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\184649bc716dcf4051629e406f19af21e221c77e\application.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\184649bc716dcf4051629e406f19af21e221c77e\bootstrap_and_overrides.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\184649bc716dcf4051629e406f19af21e221c77e\games.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\184649bc716dcf4051629e406f19af21e221c77e\home.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\25297ead07ecec1b6967dd9939c074aea8f3d94f\application.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\25297ead07ecec1b6967dd9939c074aea8f3d94f\authentications.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\25297ead07ecec1b6967dd9939c074aea8f3d94f\bootstrap_and_overrides.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\25297ead07ecec1b6967dd9939c074aea8f3d94f\home.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_accordion.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_breadcrumbs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_button-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_carousel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_close.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_code.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_component-animations.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_dropdowns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_hero-unit.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_labels-badges.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_layouts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_media.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_modals.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_navbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_navs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_pager.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_popovers.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_progress-bars.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_scaffolding.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_sprites.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_tables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_thumbnails.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_tooltip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_type.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\_wells.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\56a60e8da311354bb056cfbe734841dd5da34a80\bootstrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\65fc9a8521274598e08ad3c53d0f2b3070adfa4c\bootstrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_accordion.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_alerts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_breadcrumbs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_button-groups.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_carousel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_close.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_code.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_component-animations.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_dropdowns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_hero-unit.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_labels-badges.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_layouts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_media.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_modals.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_navbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_navs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_pager.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_pagination.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_popovers.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_progress-bars.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_scaffolding.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_sprites.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_tables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_thumbnails.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_tooltip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_type.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\_wells.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\789eb8da2e4e55c41b9ba3d3fe6ae4151cbdc7f8\bootstrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\9140919a3c54a817e1dc5cb500553f0784ce89b3\bootstrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\a9f0d0e10489f8c460b6cd5f5bee897be0818aaf\application.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\a9f0d0e10489f8c460b6cd5f5bee897be0818aaf\authentications.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\a9f0d0e10489f8c460b6cd5f5bee897be0818aaf\games.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sass\a9f0d0e10489f8c460b6cd5f5bee897be0818aaf\home.css.scssc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\00848ff95142a76622ff565084543cfc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\0683e079ee2a8ddfe4d13a7fecd46855" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\0695adb820801cc286b7c37db2e21911" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\0f27d7046b954100c4994a3783a7304d" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\1473f915ff861e264c3cd04d4e22dceb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\18bf17028e4c0e707f82ccb5cb49487e" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\1aafd4290eb799fdc52684b5f72a7b73" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\1c9d695be95247f8f065f76a1506ac60" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\1e4029e827119c3675f6183cd89603d5" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\211fba4b4e750df023a36a94465214cb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\27501dac18f3eaebafc1cc4c3e330e7b" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\28796b9174341e8cf5395bfc671b1db9" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\2ef8657a79b31e7211a624925b9add6b" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\2f77d67f1032448d618ba5d2d96cb1f4" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\306b193950165d43a41a49b365494dc8" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\30bcc1071b55ee181639320b69dbe265" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\36643267e3b488a0ed733a3381a800f3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\38755fd64de1fe643d127fcdbce24944" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\3b515606e3e089fb60ee736b6eacb3c3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\3d9fbffb91e4cd34316a65b094612083" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\3dc65551ae23779286440107cb817c9b" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\3fb7762a8a2f4ff93aaf7fdb32d235b8" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\4192a1ae8ffdca6c9b1522c333675787" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\44bcd5fc9e49ceb77dc7f4be9d473dd9" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\454276075b7913e864b99b97b80829b1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\49dc1250d830d4c4fefd54ec3bf13623" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\51255096fabd9b805c4bdba0cce64de1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\517dd561379b333d198b5d6048b47509" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\55cb10a2658a898c8fdf5f9e5ea96094" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\59bee7728a13f7dda4c03ac26b23fe81" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\6100874a3aff4325517fe2fcdf5fa9c6" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\62d981fbc52d153b6f1686a247676638" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\67d50937f61b443463714bb9af075633" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\680a69c13f862cf00ca605865a48158c" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\686401333eef9df176952f194110e374" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\68b810b76dd485fef5c2d27ebea7a9b2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\69965da7274095db9b6d12bca9d77fa5" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\6bbdfda8f030b9e93b787b8dcc025923" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\6e074d9ed317cd81837e4293077b5fb9" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\790397a427998ea7028c8b9f02ebf548" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\7d04f8a6e485cde5737298ce6f0bdde9" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\84043e952dba67c265310052dfb2a1ff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\9212d3b72b3e36cd5bf53d4182d27c89" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\986f9c338d88cd74b18b120b50e54d7d" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\9b3556c8b1e6768a5d99d4b818f3503d" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\a93e3a0ae654a218ad23cfbbc38d1cf0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\aa17c62ea89eff66d3aebd8225142074" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\aa7910e4bba236f37d807fb599fd1110" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\b44de4d4478e25e2a9d21adb77ff1d20" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\b4884177942010a106a76b00321182b6" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\b52bf0cc2fe89311a0a5e4bb3e0abff3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\b654a57da67fc4e6f5d97ff83814678b" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\b6ab2ef6da1b3f1403d8bd45ec752e1a" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\b8397904337990300f0e3a17b153b48f" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\bb0557d9487faf7011190dea6b0f9e88" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\be0112d1f681b0f79c968bd7502fc1c8" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\c053d83f4e960463be4c5ee8988f5a81" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\c504d00db928b69562d888d56ed80533" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\c7d44216b39956aa5a06984fde639cbc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\cdc618597db5e311f29befc7676b05b7" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\cf64fc23f760252ab9c82b7a170bace4" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\d19f00e55ec3817a013e589f060477c4" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\d1e8ddf1d62c2e0b6fe88b4c75dd80e9" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\d4cbce0411935ed02ea99edf4905b4fd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\d613b1309eee0e759702dfdb2a38ab36" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\de2ccd642b6d13898e5378de669d8da2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\df3b431fd66761deee03d9051a63eea9" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\dff7a079c2215f32f42503ee52c4c03a" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\e1818241f5a9bafdfc9b90f6636f34d3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\e4a47c43798cd17fb3dd8f585a18fe73" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\e93890a3a46467f8aa70ab0c52de8e95" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\e9f1df9b200fd6c9420f4364bfe4dfd8" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\ec939f46effc574267de9ead920e3f06" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\ecb65d2981a5b35f028805f8ce81b404" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\f013fd8fbfed6f22ce5af2dfc4ae8805" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\f3755c4a1bbfd1801e01f4b2d276ff99" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\f648f4f32a06d1235458229b602507cf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\faec07d71b16cd620803478e03c7fac1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\fd499cc4a4cd7d19dc69658fab0268ab" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\fe4b0452d3563caa0cbd0cb453ff04f9" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\tmp\cache\assets\development\sprockets\ff4487fb72e24f9284d44a4aac84e37e" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/016a3b5c7eedffe1d6e9c7ed705fee25" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/016a3b5c7eedffe1d6e9c7ed705fee25" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0c9f5a68e10c76b2d39acc37bb242e22" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0c9f5a68e10c76b2d39acc37bb242e22" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0ceedad8bc945c2029529eb4fbf0931b" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/0ceedad8bc945c2029529eb4fbf0931b" />
@@ -21,7 +190,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/47f56545c05b4bfc5d09d8de76c7ec2e" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/47f56545c05b4bfc5d09d8de76c7ec2e" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/4f8d95440f912d3f1567161cbb027a4a" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/4f8d95440f912d3f1567161cbb027a4a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/50cd9be1e31fd1a9d390cca9a5fb5d5d" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/50cd9be1e31fd1a9d390cca9a5fb5d5d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/51255096fabd9b805c4bdba0cce64de1" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/51255096fabd9b805c4bdba0cce64de1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5e8c56f83dc2ee0f1a46271e4087843c" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/5e8c56f83dc2ee0f1a46271e4087843c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6420e1ae7ca13e29547e5d7c7486d062" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/6420e1ae7ca13e29547e5d7c7486d062" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/670ce3569669b20086a57a8f7f0827a3" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/670ce3569669b20086a57a8f7f0827a3" />
@@ -36,7 +204,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/8c73feb267740664a3beb7858a97885d" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/8c73feb267740664a3beb7858a97885d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a3fd926260970a5a63b130a2ee0602ef" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/a3fd926260970a5a63b130a2ee0602ef" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/aefe940eab56ce0b0c81aa76d0a25d5b" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/aefe940eab56ce0b0c81aa76d0a25d5b" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b4884177942010a106a76b00321182b6" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/b4884177942010a106a76b00321182b6" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bcca522c6302f184f12fe0e8a7d7e71a" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bcca522c6302f184f12fe0e8a7d7e71a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bfe629e44bcdac68d5e18d8f219e9a44" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/bfe629e44bcdac68d5e18d8f219e9a44" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/c13fc73ceafa45876a901b3e775b83ae" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/c13fc73ceafa45876a901b3e775b83ae" />
@@ -51,27 +218,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f1663d34d4b6003379113df98f1433a5" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f1663d34d4b6003379113df98f1433a5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f7cbd26ba1d28d48de824f0e94586655" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f7cbd26ba1d28d48de824f0e94586655" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/fa5e4c991c99d0bc0626d2e6f741c911" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/fa5e4c991c99d0bc0626d2e6f741c911" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Final_Hangman.iml" afterPath="$PROJECT_DIR$/.idea/Final_Hangman.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.haml" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/shared/_links.haml" afterPath="$PROJECT_DIR$/app/views/devise/shared/_links.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/games.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/games.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/games_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/games_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/index.html.haml" afterPath="$PROJECT_DIR$/app/views/home/index.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/registrations/new.html.haml" afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/sessions/new.html.haml" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/games/new.html.haml" afterPath="$PROJECT_DIR$/app/views/games/new.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/pids/server.pid" afterPath="$PROJECT_DIR$/tmp/pids/server.pid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/wordsEn.txt" afterPath="$PROJECT_DIR$/public/wordsEn.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Final_Hangman.iws" />
@@ -103,78 +260,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1309">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/home/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="544">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.26003823" vertical-offset="51" max-vertical-offset="816">
+              <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wordsEn.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/wordsEn.txt">
+      <file leaf-file-name="new.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/games/new.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1904" max-vertical-offset="3978">
-              <caret line="112" column="4" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="4" />
+            <state vertical-scroll-proportion="-17.666666" vertical-offset="0" max-vertical-offset="1071">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="games_controller.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/games_controller.rb">
+      <file leaf-file-name="_header.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1598">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="391">
+              <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hangman1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/images/hangman1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20130923062139_devise_create_users.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20130923062139_devise_create_users.rb">
+      <file leaf-file-name="games.css.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/games.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="969">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="612">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <file leaf-file-name="home.css.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.3454547" vertical-offset="3068" max-vertical-offset="3587">
+              <caret line="201" column="1" selection-start-line="201" selection-start-column="1" selection-end-line="201" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schema.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <file leaf-file-name="_footer.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1394">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.33333334" vertical-offset="0" max-vertical-offset="136">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -183,18 +323,38 @@
       <file leaf-file-name="application.html.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="340">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="340">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <file leaf-file-name="application.css.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="323">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authentications.css.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/authentications.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="153">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap_and_overrides.css.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.653846" vertical-offset="4" max-vertical-offset="578">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -209,15 +369,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.haml" />
         <option value="$PROJECT_DIR$/config/database.yml" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/home/index.html.haml" />
         <option value="$PROJECT_DIR$/public/wordsEn.txt" />
         <option value="$PROJECT_DIR$/app/controllers/games_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/devise/sessions/new.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/devise/shared/_links.haml" />
+        <option value="$PROJECT_DIR$/app/views/devise/registrations/new.html.haml" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/games.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/games/new.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.haml" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/home/index.html.haml" />
       </list>
     </option>
   </component>
@@ -233,8 +399,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1" />
+    <option name="y" value="5" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -270,6 +436,308 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="games" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sessions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final_Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="RailsProjectView" />
@@ -282,8 +750,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\app\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\railsProject\Final_Hangman\app\assets\images" />
     </key>
@@ -454,6 +929,9 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="808ebff6-dfa9-4399-ad0c-5f962bfb1952" name="Default" comment="" />
@@ -461,6 +939,19 @@
       <option name="number" value="Default" />
       <updated>1488282219574</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add new words">
+      <created>1488374707551</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488374707551</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added few more  new words">
+      <created>1488434584773</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1488434584773</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -484,24 +975,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1" y="5" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2217484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2260128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48645163" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -524,12 +1015,22 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Add new words" />
+    <MESSAGE value="Added few more  new words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added few more  new words" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1309">
@@ -550,7 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1904" max-vertical-offset="3978">
           <caret line="112" column="4" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="969">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,7 +1085,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1394">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,7 +1162,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="391">
           <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,27 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="578">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="2839">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -774,27 +1247,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
+    <entry file="file://$PROJECT_DIR$/public/wordsEn.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="340">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="31.571428" vertical-offset="0" max-vertical-offset="18224">
+          <caret line="1066" column="7" selection-start-line="1066" selection-start-column="7" selection-end-line="1066" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130923062139_devise_create_users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="969">
+        <state vertical-scroll-proportion="-0.22586522" vertical-offset="124" max-vertical-offset="969">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.92896175" vertical-offset="510" max-vertical-offset="1394">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52641165" vertical-offset="0" max-vertical-offset="549">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/devise/shared/_links.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -803,42 +1294,113 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/new.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.73996174" vertical-offset="344" max-vertical-offset="867">
+          <caret line="43" column="57" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/devise/sessions/new.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1394">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="544">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/wordsEn.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1904" max-vertical-offset="3978">
-          <caret line="112" column="4" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="4" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/games_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1598">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state vertical-scroll-proportion="17.2" vertical-offset="753" max-vertical-offset="1598">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/games.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.653846" vertical-offset="4" max-vertical-offset="578">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/authentications.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/games.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="612">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/games/new.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.666666" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="340">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.33333334" vertical-offset="0" max-vertical-offset="136">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.3454547" vertical-offset="3068" max-vertical-offset="3587">
+          <caret line="201" column="1" selection-start-line="201" selection-start-column="1" selection-end-line="201" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26003823" vertical-offset="51" max-vertical-offset="816">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
           <folding />
         </state>
       </provider>

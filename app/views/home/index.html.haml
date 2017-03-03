@@ -1,15 +1,29 @@
-%h2#homeHeading.text-center Welcome To Hangman Game
+
 - unless user_signed_in?
   .clearfix
-    .userAction.span4.offset3
-      %ul.clearfix
-        %li= link_to 'Sign up', new_user_registration_path, class:"btn-large btn btn-success"
-        %li= link_to 'Sign in', new_user_session_path, class:"btn-large btn"
+    .userAction
+      .row
+        .col-xs-6{:style => "\n    margin-top: 40px; font-family: cursive; font-weight: 600; display:none;"}
+          %h1{:align => "center"} WELCOME
+          %h1{:align => "center"}  TO
+          %h1{:align => "center"} HANGMAN
+
+
+        .col-xs-6{:style => "position: absolute; top: 340px; left: 735px;"}
+          -#%span= link_to 'Sign up', new_user_registration_path, class:"btn-large btn btn-success"
+          %button.btn.btn-primary.btn-lg.btn-block.signUpBtn{:type => "button"}= link_to 'Sign up', new_user_registration_path
+          %br/
+          -#%span= link_to 'Sign in', new_user_session_path, class:"btn-large btn"
+          %button.btn.btn-success.btn-lg.btn-block.signUpBtn{:type => "button"}= link_to 'Sign in', new_user_session_path
+
+    =image_tag  "hangman1.jpg", :class => "my_class"
+    -#%ul.clearfix
+    -#    %li= link_to 'Sign up', new_user_registration_path, class:"btn-large btn btn-success"
+    -#    %li= link_to 'Sign in', new_user_session_path, class:"btn-large btn"
 
 - if user_signed_in?
+
   .row-fluid
-    .span6
-      = link_to 'Play Game', newgame_path, class:"btn btn-large btn-primary"
     .span6
       %form.form-horizontal
         .control-group
@@ -24,3 +38,5 @@
           %label.control-label{for: "lose"} Games lost
           .controls
             %input#disabledInput.input-xlarge{placeholder: "Games Lost", type: "text", value: @game.lose, disabled: @game.played}
+            .span6
+      = link_to 'Play Game', newgame_path, class:"btn btn-large btn-primary1"

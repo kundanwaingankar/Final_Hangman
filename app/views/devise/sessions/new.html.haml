@@ -1,20 +1,21 @@
-%h2 Sign in
-= form_for(resource, :as => resource_name, :url => session_path(resource_name),html: {class:"form-horizontal"}) do |f|
-  .control-group
-    = f.label :email, class:"control-label"
-    .controls
-      = f.email_field :email, :autofocus => true, placeholder:"Email"
-  .control-group
-    = f.label :password, class:"control-label"
-    .controls
-      = f.password_field :password, :autofocus => true, placeholder:"Password"
-  - if devise_mapping.rememberable?
+.signInWrapper
+  %h2{:style => "font-family:cursive;font-size: 43px;"} Sign In
+
+  = form_for(resource, :as => resource_name, :url => session_path(resource_name),html: {class:"form-horizontal"}) do |f|
     .control-group
-      .controls.remember
-        = f.check_box :remember_me
-        = f.label :remember_me
-  .control-group
-    .controls
-      = f.submit "Sign in", class:"btn"
-      .helpLinks
-        = render "devise/shared/links"
+
+      .controls
+        = f.email_field :email, :autofocus => true, placeholder:"Email"
+    .control-group
+      .controls
+        = f.password_field :password, :autofocus => true, placeholder:"Password"
+    - if devise_mapping.rememberable?
+      .control-group
+        .controls.remember
+          = f.check_box :remember_me
+          = f.label :remember_me
+    .control-group
+      .controls
+        = f.submit "Sign in", class:"btn btn-success btn-lg"
+        .helpLinks
+          = render "devise/shared/links"

@@ -17,7 +17,7 @@ class GamesController < ApplicationController
     game_word = ""
     # Word Length should be greater 3
     begin
-      lineNo = rand(229)
+      lineNo = rand(1067)
       file_path = Rails.root + "public/wordsEn.txt"
       fileData = IO.readlines(file_path)
       game_word = fileData[lineNo].chomp
